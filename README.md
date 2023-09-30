@@ -5,7 +5,7 @@
 </div>
 
 <br>
-<img width="250px" align="left" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
+<img width="250px" align="right" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
 ```
 Tenho 18 anos, moro em Diadema/SP e sou apaixonado por tecnologia! 
