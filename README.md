@@ -5,7 +5,7 @@
 </div>
 
 <br>
-<img width="280px" align="left" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
+<img width="250px" align="left" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
 ```
 Tenho 18 anos, moro em Diadema/SP e sou apaixonado por tecnologia! 
@@ -14,7 +14,7 @@ e descobrir os segredos do código.
 
 Minha paixão por tecnologia é como uma chama que nunca se apaga, 
 impulsionando-me a aprender, criar e inovar. 
-A cada linha de código que escrevo, sinto-me mais próximo de transformar ideias em realidade,
+A cada linha de código que escrevo, estou mais próximo de transformar ideias em realidade,
 e cada novo projeto é uma jornada emocionante de descoberta.
 
 O futuro é empolgante, repleto de possibilidades infinitas,
