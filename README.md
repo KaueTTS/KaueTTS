@@ -9,12 +9,18 @@
 
 ```
 Tenho 18 anos, moro em Diadema/SP e sou apaixonado por tecnologia! 
-Cada dia é uma nova oportunidade para explorar o vasto mundo digital e descobrir os segredos do código.
+Cada dia é uma nova oportunidade para explorar o vasto mundo digital 
+e descobrir os segredos do código.
 
-Minha paixão por tecnologia é como uma chama que nunca se apaga, impulsionando-me a aprender, criar e inovar. 
-A cada linha de código que escrevo, sinto-me mais próximo de transformar ideias em realidade, e cada novo projeto é uma jornada emocionante de descoberta.
+Minha paixão por tecnologia é como uma chama que nunca se apaga, 
+impulsionando-me a aprender, criar e inovar. 
+A cada linha de código que escrevo, sinto-me mais próximo de transformar ideias em realidade,
+e cada novo projeto é uma jornada emocionante de descoberta.
 
-O futuro é empolgante, repleto de possibilidades infinitas, e estou determinado a aproveitar cada uma delas. Sou um sonhador que busca transformar o mundo através da tecnologia, e sei que esta é apenas a primeira página da minha história.
+O futuro é empolgante, repleto de possibilidades infinitas,
+e estou determinado a aproveitar cada uma delas.
+Sou um sonhador que busca transformar o mundo através da tecnologia,
+e sei que esta é apenas a primeira página da minha história.
 ```
 <br>
 
