@@ -2,7 +2,7 @@
 <h3>Seja muito bem vindo ao meu perfil do GitHub!</h3>
 
 <img width="280px" align="left" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
-<br>.
+<br>
 
 ```
 Tenho 18 anos, moro em Diadema/SP e sou apaixonado por tecnologia! 
