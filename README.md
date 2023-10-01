@@ -55,5 +55,7 @@ e sei que esta é apenas a primeira página da minha história.
  <a href="https://github.com/KaueTTS">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueTTS&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueTTS&layout=compact&theme=tokyonight"/>
+
+   ![Snake animation](https://github.com/KaueTTS/KaueTTS/blob/output/github-contribution-grid-snake.svg)
  </a>
 </p>
