@@ -3,6 +3,7 @@
 
 <img width="280px" align="left" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
+<br>
 ```
 Tenho 18 anos, moro em Diadema/SP e sou apaixonado por tecnologia! 
 Cada dia é uma nova oportunidade para explorar o vasto mundo digital 
@@ -29,6 +30,7 @@ e sei que esta é apenas a primeira página da minha história.
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="PYTHON"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP"/></code>
 
+<br>
 <br>
 <div display="inline-block">
 <p align="left">📌 Faço parte do time de Operações SP no <strong>GrupoMulti</strong>;</p>
