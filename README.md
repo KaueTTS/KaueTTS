@@ -56,7 +56,19 @@ e sei que esta é apenas a primeira página da minha história.
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueTTS&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueTTS&layout=compact&theme=tokyonight"/>
  </a>
+
+  <picture>
+   <source
+     media="(prefers-color-scheme: dark)"
+     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+   <source
+     media="(prefers-color-scheme: light)"
+     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+   <img
+     alt="github contribution grid snake animation"
+     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+ </picture>
  
- ![Snake Game](https://github.com/KaueTTS/KaueTTS/blob/output/github-contribution-grid-snake.svg)
+ <!--![Snake Game](https://github.com/KaueTTS/KaueTTS/blob/output/github-contribution-grid-snake.svg)-->
 </p>
 
