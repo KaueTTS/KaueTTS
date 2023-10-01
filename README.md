@@ -57,6 +57,6 @@ e sei que esta é apenas a primeira página da minha história.
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueTTS&layout=compact&theme=tokyonight"/>
  </a>
  
- ![snake gif](https://github.com/KaueTTS/KaueTTS/blob/output/github-contribution-grid-snake.svg)
+ ![Snake Game](https://github.com/KaueTTS/KaueTTS/blob/output/github-contribution-grid-snake.svg)
 </p>
 
