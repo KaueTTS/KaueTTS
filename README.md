@@ -11,8 +11,8 @@ e descobrir os segredos do código.
 
 Minha paixão por tecnologia é como uma chama que nunca se apaga, 
 impulsionando-me a aprender, criar e inovar. 
-A cada linha de código que escrevo, estou mais próximo de transformar 
-ideias em realidade, cada novo projeto é uma jornada emocionante de descoberta.
+A cada linha de código que escrevo, sinto-me mais próximo de transformar 
+ideias em realidade, cada novo projeto é uma jornada emocionante de 
 
 O futuro é empolgante, repleto de possibilidades infinitas,
 e estou determinado a aproveitar cada uma delas.
