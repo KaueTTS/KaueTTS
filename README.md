@@ -1,11 +1,8 @@
 <h1> Olá, meu nome é Kauê 👋 </h1>
-
-<div>
- <h3>Seja muito bem vindo ao meu perfil do GitHub!</h3><h4>Espero que goste dos meus projetos</h4>
-</div>
+<h3>Seja muito bem vindo ao meu perfil do GitHub!</h3>
 
 <br>
-<img width="250px" align="right" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
+<img width="300px" align="right" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
 ```
 Tenho 18 anos, moro em Diadema/SP e sou apaixonado por tecnologia! 
@@ -14,8 +11,8 @@ e descobrir os segredos do código.
 
 Minha paixão por tecnologia é como uma chama que nunca se apaga, 
 impulsionando-me a aprender, criar e inovar. 
-A cada linha de código que escrevo, estou mais próximo de transformar ideias em realidade,
-e cada novo projeto é uma jornada emocionante de descoberta.
+A cada linha de código que escrevo, estou mais próximo de transformar 
+ideias em realidade, cada novo projeto é uma jornada emocionante de descoberta.
 
 O futuro é empolgante, repleto de possibilidades infinitas,
 e estou determinado a aproveitar cada uma delas.
