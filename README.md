@@ -2,7 +2,7 @@
 <h3>Seja muito bem vindo ao meu perfil do GitHub!</h3>
 
 <img width="280px" align="left" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
-<br>
+<br>.
 
 ```
 Tenho 18 anos, moro em Diadema/SP e sou apaixonado por tecnologia! 
@@ -57,6 +57,6 @@ e sei que esta é apenas a primeira página da minha história.
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueTTS&layout=compact&theme=tokyonight"/>
  </a>
  
- ![Snake animation](https://github.com/KaueTTS/KaueTTS/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/KaueTTS/KaueTTS/blob/output/github-contribution-grid-snake.svg) -->
 </p>
 
