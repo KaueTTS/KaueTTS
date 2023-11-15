@@ -53,7 +53,8 @@ e sei que estou apenas na primeira página da minha história.
       <a href="https://www.linkedin.com/in/kauebertaze/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin">
       <a href="mailto:kauebertaze2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    </div>
-   <div>     
+   <div> 
+      <h3>Informações de conteúdos:</h3>    
       <a href="https://github.com/KaueTTS"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&link=kauebertaze">
    </div>
 </div>
