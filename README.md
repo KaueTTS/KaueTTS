@@ -15,6 +15,8 @@
 
 <img width="200px" align="right" src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif">
 
+<br>
+
 ### 📝 Sobre Mim 
 
 - 📌 Faço parte do time de Operações SP na empresa **GrupoMulti**.
@@ -26,6 +28,15 @@
 - 🤝 Busco trocar informações sobre **Desenvolvimento Web** para ajudar no crescimento profissional.
 
 <br>
+<br>
+
+<h2>💰 Experiência Profissional e Acadêmica</h2>
+
+[<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
+**Eletroeletrônicos e Informática** \
+[**GrupoMulti**](https://www.multilaser.com.br/) \
+Competências: `Suporte em Software`, `Suporte em Hardware`, `Suporte em SO`
+
 <br>
 
 ## 🎯 Planos futuros
