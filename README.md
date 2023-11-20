@@ -32,9 +32,11 @@
 
 <h2>💰 Experiência Profissional e Acadêmica</h2>
 
+<h3>Experiência Profissional:</h3>
+
 [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
 **Eletroeletrônicos e Informática** \
-[**GrupoMulti**](https://www.multilaser.com.br/) \
+[**GrupoMulti**](https://www.multilaser.com.br/) • Presencial \
 Competências: `Suporte em Software`, `Suporte em Hardware`, `Suporte em SO`, `Controle de Estoque`,
 <br/> `Controle de Chips/Linhas`, `Reparo de máquinas`, `Reparo de celulares`
 
