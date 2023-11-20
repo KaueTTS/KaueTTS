@@ -106,3 +106,19 @@ Competências: `Suporte em Software`, `Suporte em Hardware`, `Suporte em SO`, `C
    [![GitHub: Kauê Bertaze](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&link=kauebertaze)](https://github.com/KaueTTS)&nbsp;
 
 </div>
+
+<p align="center">
+   O futuro é empolgante, repleto de possibilidades infinitas, e estou determinado a aproveitar cada uma delas. Sou um sonhador que busca transformar o mundo através da tecnologia, e sei que estou apenas na primeira página da minha história.
+</p>
+
+##
+
+<p align="center">
+ <a href="https://github.com/KaueTTS">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueTTS&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueTTS&layout=compact&theme=tokyonight"/>
+ </a>
+ <!-- ![Snake animation](https://github.com/KaueTTS/KaueTTS/blob/output/github-contribution-grid-snake.svg) -->
+</p>
+
+<h6 align="center">Copyright © 2023 by KauêTTS | All Rights Reserverd.</h6>
