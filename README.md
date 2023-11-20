@@ -1,8 +1,8 @@
 <div align="center">
 
-   <hr width="240px">
+   <hr width="240px" noshade>
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&height=30&lines=Kau%C3%AA+Bertaze+de+Oliveira;Desenvolvedor+FullStack;Engenheiro+de+Software" alt="Typing SVG" /></a>
-   <hr width="240px" size="20px">
+   <hr width="240px" noshade>
 </div>
 
 <p align="center">
