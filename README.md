@@ -123,4 +123,10 @@ Competências: `Suporte em Software`, `Suporte em Hardware`, `Suporte em SO`, `C
  <!-- ![Snake animation](https://github.com/KaueTTS/KaueTTS/blob/output/github-contribution-grid-snake.svg) -->
 </p>
 
+<div align="center">
+   <br><p align="center"><b>Contagem de Visitantes</b></p>  
+      <p align="center"><img align="center" src="https://profile-counter.glitch.me/{KaueTTS}/count.svg"/></p>
+   <br>
+</div>
+
 <h6 align="center">Copyright © 2023 by KauêTTS | All Rights Reserverd.</h6>
