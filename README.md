@@ -40,6 +40,14 @@
 Competências: `Suporte em Software`, `Suporte em Hardware`, `Suporte em SO`, `Controle de Estoque`,
 <br/> `Controle de Chips/Linhas`, `Reparo de máquinas`, `Reparo de celulares`
 
+<h3>Experiência Profissional:</h3>
+
+[<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/DZ4CsXCp/beb7593d7a55a49804b75a36a841c0b9.jpg"/>](https://estacio.br/)
+**Engenharia de Software** \
+[**Estácio**](https://estacio.br/) • EAD \
+Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`, `PHP`,
+<br/> `Desenvolvimento de Softwares`, `Desenvolvimento Web`, `Arquitetura de computadores`
+
 <br>
 
 ## 🎯 Planos futuros
@@ -71,7 +79,7 @@ Competências: `Suporte em Software`, `Suporte em Hardware`, `Suporte em SO`, `C
 
    <details open >
    <summary><b>Front-End</b></summary>
-      <img width="200px" src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,scss" />
+      <img width="230px" src="https://skillicons.dev/icons?i=html,css,javascript,markdown,tailwindcss,scss" />
    </details>
 
    <br>
@@ -92,7 +100,7 @@ Competências: `Suporte em Software`, `Suporte em Hardware`, `Suporte em SO`, `C
 
    <details open>
    <summary><b>Ferramentas</b></summary>   
-      <img width="200px" src="https://skillicons.dev/icons?i=vscode,git,github,markdown,vercel" />
+      <img width="160px" src="https://skillicons.dev/icons?i=vscode,git,github,vercel" />
    </details>
 </div>
 
@@ -116,10 +124,8 @@ Competências: `Suporte em Software`, `Suporte em Hardware`, `Suporte em SO`, `C
 ##
 
 <p align="center">
- <a href="https://github.com/KaueTTS">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueTTS&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueTTS&layout=compact&theme=tokyonight"/>
- </a>
  <!-- ![Snake animation](https://github.com/KaueTTS/KaueTTS/blob/output/github-contribution-grid-snake.svg) -->
 </p>
 
