@@ -40,7 +40,7 @@
 Competências: `Suporte em Software`, `Suporte em Hardware`, `Suporte em SO`, `Controle de Estoque`,
 <br/> `Controle de Chips/Linhas`, `Reparo de máquinas`, `Reparo de celulares`
 
-<h3>Experiência Profissional:</h3>
+<h3>Experiência Acadêmica:</h3>
 
 [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/DZ4CsXCp/beb7593d7a55a49804b75a36a841c0b9.jpg"/>](https://estacio.br/)
 **Engenharia de Software** \
