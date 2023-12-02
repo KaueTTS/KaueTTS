@@ -36,7 +36,7 @@
 
 [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
 **Eletroeletrônicos e Informática** \
-[**GrupoMulti**](https://www.multilaser.com.br/) • Presencial (Tempo de empresa: 10 meses) \
+[**GrupoMulti**](https://www.multilaser.com.br/) • Presencial (Tempo de empresa: 11 meses) \
 Competências: `Suporte em Software`, `Suporte em Hardware`, `Suporte em SO`, `Controle de Estoque`,
 <br/> `Controle de Chips/Linhas`, `Reparo de máquinas`, `Reparo de celulares`
 
@@ -127,7 +127,6 @@ Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`
 <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueTTS&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueTTS&layout=compact&theme=tokyonight"/>
- <!-- ![Snake animation](https://github.com/KaueTTS/KaueTTS/blob/output/github-contribution-grid-snake.svg) -->
 </p>
 
 <div align="center">
