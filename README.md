@@ -86,7 +86,7 @@ Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`
 
    <details open>
    <summary><b>Back-End</b></summary>
-      <img width="120px" src="https://skillicons.dev/icons?i=php,python,nodejs" />
+      <img width="120px" src="https://skillicons.dev/icons?i=php,python,nodejs,pycharm,visualstudio,gamemakerstudio" />
    </details>
 
    <br>
