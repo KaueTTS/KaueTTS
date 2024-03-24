@@ -93,7 +93,7 @@ Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`
 
    <details open>
    <summary><b>Database</b></summary>   
-      <img width="120px" src="https://skillicons.dev/icons?i=mysql,sqlserver" />
+      <img width="80px" src="https://skillicons.dev/icons?i=mysql" />
    </details>
 
    <br>
