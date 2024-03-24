@@ -100,7 +100,7 @@ Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`
 
    <details open>
    <summary><b>Ferramentas</b></summary>   
-      <img width="220px" src="https://skillicons.dev/icons?i=vscode,git,github,vercel,codepen,pycharm,visualstudio,gamemakerstudio" />
+      <img width="240px" src="https://skillicons.dev/icons?i=vscode,git,github,vercel,codepen,pycharm,visualstudio,gamemakerstudio" />
    </details>
 </div>
 
