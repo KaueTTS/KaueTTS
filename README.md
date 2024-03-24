@@ -93,14 +93,14 @@ Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`
 
    <details open>
    <summary><b>Database</b></summary>   
-      <img width="60px" src="https://skillicons.dev/icons?i=mysql" />
+      <img width="40px" src="https://skillicons.dev/icons?i=mysql" />
    </details>
 
    <br>
 
    <details open>
    <summary><b>Ferramentas</b></summary>   
-      <img width="200px" src="https://skillicons.dev/icons?i=vscode,git,github,vercel,codepen,pycharm,visualstudio,gamemakerstudio" />
+      <img width="180px" src="https://skillicons.dev/icons?i=vscode,git,github,vercel,codepen,pycharm,visualstudio,gamemakerstudio" />
    </details>
 </div>
 
