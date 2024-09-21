@@ -90,7 +90,7 @@ Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`
 
    <details open>
    <summary><b>Back-End</b></summary>
-      <div width="80px">
+      <div width="40px">
          <img src="https://skillicons.dev/icons?i=php,python,nodejs,laravel,postman" />
          <br>
          <img src="https://skillicons.dev/icons?i=ts" />
