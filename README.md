@@ -20,12 +20,12 @@
 ### 📝 Sobre Mim 
 
 - 📌 Faço parte do time de Operações SP na empresa **GrupoMulti**.
-- 🔌 Atualmente sou **Analista de Suporte JR** na Multi, exercendo a função de um suporte técnico em sistemas (*Mercury, intranet, multiyou, etc*).
+- 🔌 Atualmente sou **Analista de Sistemas JR** na Multi, exercendo a função de um suporte técnico em sistemas (*Mercury, Intranet, Multiyou, Max, etc*).
 - 👨🏻‍💻 Estou estudando para me tornar um **Desenvolvedor FullStack**.
 - 📚 No momento estou aprendendo **Gerenciamento de Banco de Dados Relacional (SGBD)**.
 - 💪 Sempre estou fazendo algum tipo de atividade física, pois ajuda com a minha concentração e ansiedade.
 - 🎮 Curto jogar uns joguinhos de vez em quando.
-- 🤝 Busco trocar informações sobre **Desenvolvimento Web** para ajudar no crescimento profissional.
+- 🤝 Busco trocar informações sobre **Desenvolvimento** para ajudar no crescimento profissional.
 
 <br>
 <br>
@@ -36,7 +36,7 @@
 
 [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
 **Eletroeletrônicos e Informática** \
-[**GrupoMulti**](https://www.multilaser.com.br/) • Híbrida (Tempo de empresa: 1a 2m) \
+[**GrupoMulti**](https://www.multilaser.com.br/) • Remota (Tempo de empresa: 1a 8m) \
 Competências: `Suporte em Software`, `Suporte em Hardware`, `Suporte em SO`, `Controle de Estoque`,
 <br/> `Controle de Chips/Linhas`, `Reparo de máquinas`, `Reparo de celulares`, `Desenvolvimento Web`, `Consultas em SQLServer e MySQL`
 
@@ -79,7 +79,8 @@ Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`
 
    <details open >
    <summary><b>Front-End</b></summary>
-      <img width="220px" src="https://skillicons.dev/icons?i=html,css,javascript,markdown,tailwindcss,scss" />
+      <img width="220px" src="https://skillicons.dev/icons?i=html,css,javascript,markdown,tailwindcss" />
+      <img width="220px" src="https://skillicons.dev/icons?i=scss,react" />
    </details>
 
    <br>
@@ -100,7 +101,8 @@ Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`
 
    <details open>
    <summary><b>Ferramentas</b></summary>   
-      <img width="300px" src="https://skillicons.dev/icons?i=vscode,git,github,vercel,codepen,pycharm,visualstudio,gamemakerstudio" />
+      <img width="300px" src="https://skillicons.dev/icons?i=vscode,git,github,vercel,codepen" />
+      <img width="300px" src="https://skillicons.dev/icons?i=pycharm,visualstudio,gamemakerstudio" />
    </details>
 </div>
 
