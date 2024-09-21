@@ -79,7 +79,7 @@ Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`
 
    <details open >
    <summary><b>Front-End</b></summary>
-      <div width="100px">
+      <div width="80px">
          <img src="https://skillicons.dev/icons?i=html,css,javascript,markdown,tailwindcss" />
          <br>
          <img src="https://skillicons.dev/icons?i=scss,react,materialui" />
@@ -90,7 +90,7 @@ Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`
 
    <details open>
    <summary><b>Back-End</b></summary>
-      <div width="100px">
+      <div width="80px">
          <img src="https://skillicons.dev/icons?i=php,python,nodejs,laravel,postman" />
          <br>
          <img src="https://skillicons.dev/icons?i=ts" />
