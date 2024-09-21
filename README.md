@@ -90,23 +90,29 @@ Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`
 
    <details open>
    <summary><b>Back-End</b></summary>
-      <img width="120px" src="https://skillicons.dev/icons?i=php,python,nodejs" />
+      <div width="200px">
+         <img src="https://skillicons.dev/icons?i=php,python,nodejs" />
+      </div>
    </details>
 
    <br>
 
    <details open>
-   <summary><b>Database</b></summary>   
-      <img width="40px" src="https://skillicons.dev/icons?i=mysql" />
+   <summary><b>Database</b></summary>
+      <div width="200px">
+         <img src="https://skillicons.dev/icons?i=mysql" />
+      </div>   
    </details>
 
    <br>
 
    <details open>
-   <summary><b>Ferramentas</b></summary>   
-      <img width="200px" src="https://skillicons.dev/icons?i=vscode,git,github,vercel,codepen" />
-      <br>
-      <img width="200px" src="https://skillicons.dev/icons?i=pycharm,visualstudio,gamemakerstudio" />
+   <summary><b>Ferramentas</b></summary>  
+      <div width="200px">
+         <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,codepen" />
+         <br>
+         <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,gamemakerstudio" />
+      </div> 
    </details>
 </div>
 
