@@ -7,8 +7,8 @@
 
 <p align="center">
    Tenho 19 anos, moro em Diadema/SP e sou apaixonado por tecnologia desde criança!<br>
-   Meu princípal objetivo é desenvolver aplicações que forneça uma experiência incrível ao usuário e que ajude a facilitar o dia a dia do ser humano.<br>
-   Minha paixão por tecnologia vem desde que me conheceço por gente, impulsionando-me a aprender, criar e inovar. A cada linha de código que escrevo, sinto-me mais próximo de transformar ideias em realidade, e cada novo projeto é uma jornada emocionante de descoberta.
+   Meu princípal objetivo é desenvolver aplicações que forneçam uma experiência incrível ao usuário e que ajude a facilitar o dia a dia do ser humano.<br>
+   Minha paixão por tecnologia vem desde que me conheço por gente, impulsionando-me a aprender, criar e inovar. A cada linha de código que escrevo, sinto-me mais próximo de transformar ideias em realidade, e cada novo projeto é uma jornada emocionante de descoberta.
 </p>
 
 ##
