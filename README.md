@@ -77,7 +77,7 @@ Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`
 <div align="center">
    <h3><b>Minhas especializações</b></h3>
 
-   <details open >
+   <details closed >
    <summary><b>Front-End</b></summary>
       <div width="40px">
          <img src="https://skillicons.dev/icons?i=html,css,javascript,markdown,tailwindcss" />
@@ -88,18 +88,25 @@ Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`
 
    <br>
 
-   <details open>
-   <summary><b>Back-End</b></summary>
+   <details closed>
+   <summary><b>API</b></summary>
       <div width="40px">
-         <img src="https://skillicons.dev/icons?i=php,python,nodejs,laravel,postman" />
-         <br>
-         <img src="https://skillicons.dev/icons?i=ts" />
+         <img src="https://skillicons.dev/icons?i=postman" />
       </div>
    </details>
 
    <br>
 
-   <details open>
+   <details closed>
+   <summary><b>Back-End</b></summary>
+      <div width="40px">
+         <img src="https://skillicons.dev/icons?i=php,python,nodejs,laravel,ts" />
+      </div>
+   </details>
+
+   <br>
+
+   <details closed>
    <summary><b>Database</b></summary>
       <div width="40px">
          <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
