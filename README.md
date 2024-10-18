@@ -37,8 +37,7 @@
 [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
 **Eletroeletrônicos e Informática** \
 [**GrupoMulti**](https://www.multilaser.com.br/) • Remota (Tempo de empresa: 1a 8m) \
-Competências: `Suporte em Software`, `Suporte em Hardware`, `Suporte em SO`, `Controle de Estoque`,
-<br/> `Controle de Chips/Linhas`, `Reparo de máquinas`, `Reparo de celulares`, `Desenvolvimento Web`, `Consultas em SQLServer e MySQL`
+Competências: `Suporte em Hardwares e Softwares`, `Suporte em SO (Windows 10/11, Mac OS, Linux, Android e IOS)`, `Controle de Estoque`,`Controle de Chips/Linhas`, `Preparo e reparo de máquinas/celulares`, `Gerenciamento de usuários no Active Directory`, `Consultas e validações em SQLServer, MySQL e MongoDB`, `Documentação de processos, ajustes e correções dos sistemas Multi no Confluence`
 
 <h3>Experiências Acadêmicas:</h3>
 
