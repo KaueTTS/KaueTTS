@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-   Tenho 19 anos, moro em Diadema/SP e sou apaixonado por tecnologia desde criança!<br>
+   Tenho 20 anos, moro em Diadema/SP e sou apaixonado por tecnologia desde criança!<br>
    Meu princípal objetivo é desenvolver aplicações que forneçam uma experiência incrível ao usuário e que ajude a facilitar o dia a dia do ser humano.<br>
    Minha paixão por tecnologia vem desde que me conheço por gente, impulsionando-me a aprender, criar e inovar. A cada linha de código que escrevo, sinto-me mais próximo de transformar ideias em realidade, e cada novo projeto é uma jornada emocionante de descoberta.
 </p>
@@ -15,14 +15,12 @@
 
 <img width="200px" align="right" src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif">
 
-<br>
-
 ### 📝 Sobre Mim 
 
 - 📌 Faço parte do time de Operações SP na empresa **GrupoMulti**.
-- 🔌 Atualmente sou **Analista de Sistemas JR** na Multi, exercendo a função de um suporte técnico em sistemas (*Mercury, Intranet, Multiyou, Max, etc*).
+- 🔌 Atualmente sou **Analista de Sistemas JR** na Multi, exercendo a função de um suporte à sistemas (*Mercury, Intranet, Multiyou, Max, etc*).
 - 👨🏻‍💻 Estou estudando para me tornar um **Desenvolvedor FullStack**.
-- 📚 No momento estou aprendendo **Gerenciamento de Banco de Dados Relacional (SGBD)**.
+- 📚 No momento estou aprendendo a linguagem **PHP**.
 - 💪 Sempre estou fazendo algum tipo de atividade física, pois ajuda com a minha concentração e ansiedade.
 - 🎮 Curto jogar uns joguinhos de vez em quando.
 - 🤝 Busco trocar informações sobre **Desenvolvimento** para ajudar no crescimento profissional.
@@ -36,7 +34,7 @@
 
 [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
 **Eletroeletrônicos e Informática** \
-[**GrupoMulti**](https://www.multilaser.com.br/) • Remota (Tempo de empresa: 1a 8m) \
+[**GrupoMulti**](https://www.multilaser.com.br/) • Remota (Tempo de empresa: 1a 9m) \
 Competências: `Suporte em Hardwares e Softwares`, `Suporte em SO (Windows 10/11, Mac OS, Linux, Android e IOS)`, `Controle de Estoque`,`Controle de Chips/Linhas`, `Preparo e reparo de máquinas/celulares`, `Gerenciamento de usuários no Active Directory`, `Consultas e validações em SQLServer, MySQL e MongoDB`, `Documentação de processos, ajustes e correções dos sistemas Multi no Confluence`, `Plataforma de API Postman para correções de dados`, `Datadog e Grafana para acompanhamento de erros`, `Realização de ajustes e correções pontuais em projetos e procedures`, `Criação de Dashboard na plataforma JIRA`, `Atendimento N1 e N2 para colaboradores na plataforma JIRA`
 
 <h3>Experiências Acadêmicas:</h3>
@@ -44,8 +42,7 @@ Competências: `Suporte em Hardwares e Softwares`, `Suporte em SO (Windows 10/11
 [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/DZ4CsXCp/beb7593d7a55a49804b75a36a841c0b9.jpg"/>](https://estacio.br/)
 **Engenharia de Software** \
 [**Estácio**](https://estacio.br/) • EAD (Cursando) \
-Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`, `PHP`,
-<br/> `Desenvolvimento de Softwares`, `Desenvolvimento Web`, `Arquitetura de computadores`, `Banco de Dados`
+Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`, `PHP`, `Desenvolvimento de Softwares`, `Desenvolvimento Web`, `Arquitetura de computadores`, `Banco de Dados`
 
 <br>
 
@@ -66,7 +63,7 @@ Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`
 
 🌎 | Possuir um inglês intermediário/avançado.
 
-🤖 | Construir um mega projeto.
+🤖 | Construir um mega projeto utilizando Frontend, Backend, API e Banco.
 ```
 
 <br>
