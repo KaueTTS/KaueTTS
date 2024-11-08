@@ -24,6 +24,7 @@
    <img width="200px" align="right" src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif">
 
    <br>
+   <br>
 
    - 📌 I am part of the SP Operations team at **GrupoMulti.****
    - 🔌 Currently, I work as a **Junior Systems Analyst** at Multi, providing support for various systems (*Mercury, Intranet, Multiyou, Max, etc*).
