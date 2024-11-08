@@ -78,7 +78,7 @@ Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`
       <div width="40px">
          <img src="https://skillicons.dev/icons?i=html,css,javascript,markdown,scss" />
          <br>
-         <img src="https://skillicons.dev/icons?i=react" />
+         <img src="https://skillicons.dev/icons?i=react,vuejs" />
       </div>
    </details>
 
