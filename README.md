@@ -2,36 +2,36 @@
 
    <div>
       <hr width="240px" noshade="noshade" size="1">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&height=30&lines=Kau%C3%AA+Bertaze+de+Oliveira;Desenvolvedor+FullStack;Engenheiro+de+Software" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&height=30&lines=Kau%C3%AA+Bertaze+de+Oliveira;FullStack+Developer;Software+Engineer" alt="Typing SVG" /></a>
       <hr width="240px" noshade="noshade" size="1">
    </div>
    
    <p>
-      Tenho 20 anos, moro em Diadema/SP e sou apaixonado por tecnologia desde criança!<br>
-      Meu princípal objetivo é desenvolver aplicações que forneçam uma experiência incrível ao usuário e que ajude a facilitar o dia a dia do ser humano.<br>
-      Minha paixão por tecnologia vem desde que me conheço por gente, impulsionando-me a aprender, criar e inovar. A cada linha de código que escrevo, sinto-me mais próximo de transformar ideias em realidade, e cada novo projeto é uma jornada emocionante de descoberta.
+      I am 20 years old, living in Diadema/SP, and I've been passionate about technology since childhood!<br>
+      My main goal is to develop applications that provide an amazing user experience and help make people's daily lives easier.<br>
+      My passion for technology has been with me for as long as I can remember, driving me to learn, create, and innovate. With every line of code I write, I feel closer to turning ideas into reality, and each new project is an exciting journey of discovery
    </p>
 
    <a href="https://github.com/KaueTTS"><span>ENGLISH</span></a> |
-   <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_PTBR.md"><span>PORTGUÊS</span></a> |
-   <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_ES.md"><span>ESPANHOL</span></a>
+   <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_PTBR.md"><span>PORTUGUESE</span></a> |
+   <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_ES.md"><span>SPANISH</span></a>
 </div>
 
 <div>
 
-   ## 📝 Sobre Mim 
+   ## 📝 About Me
 
    <img width="200px" align="right" src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif">
 
    <br>
 
-   - 📌 Faço parte do time de Operações SP na empresa **GrupoMulti**.
-   - 🔌 Atualmente sou **Analista de Sistemas JR** na Multi, exercendo a função de um suporte à sistemas (*Mercury, Intranet, Multiyou, Max, etc*).
-   - 👨🏻‍💻 Estou estudando para me tornar um **Desenvolvedor FullStack**.
-   - 📚 No momento estou aprendendo a linguagem **PHP**.
-   - 💪 Sempre estou fazendo algum tipo de atividade física, pois ajuda com a minha concentração e ansiedade.
-   - 🎮 Curto jogar uns joguinhos de vez em quando.
-   - 🤝 Busco trocar informações sobre **Desenvolvimento** para ajudar no crescimento profissional.
+   - 📌 I am part of the SP Operations team at **GrupoMulti.****
+   - 🔌 Currently, I work as a **Junior Systems Analyst** at Multi, providing support for various systems (*Mercury, Intranet, Multiyou, Max, etc*).
+   - 👨🏻‍💻 I am studying to become a **FullStack Developer**.
+   - 📚 I am currently learning the **PHP** language.
+   - 💪 I always engage in some kind of physical activity as it helps with my concentration and anxiety.
+   - 🎮 I enjoy playing video games from time to time.
+   - 🤝 I am eager to exchange information about **Development** to support professional growth.
 
 </div>
 
