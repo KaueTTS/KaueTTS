@@ -155,7 +155,7 @@
 
 <div align="center" display="inline">
 
-   ## 🌐 Redes Sociais
+   ## 🌐 Social Media
 
    [![Instagram: kauebertaze](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauebertaze/)&nbsp;
    [![Linkedin: Kauê Bertaze](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kauebertaze/)&nbsp;
@@ -164,7 +164,7 @@
    [![Discord: kauetts](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/663580434101305345)&nbsp;
 
    <p>
-      O futuro é empolgante, repleto de possibilidades infinitas, e estou determinado a aproveitar cada uma delas. Sou um sonhador que busca transformar o mundo através da tecnologia, e sei que estou apenas na primeira página da minha história.
+      The future is exciting, filled with infinite possibilities, and I am determined to seize each one of them. I am a dreamer aiming to change the world through technology, and I know I am just on the first page of my story.
    </p>
 
 </div>
@@ -178,7 +178,7 @@
    </p>
 
    <div align="center">
-      <br><p align="center"><b>Contagem de Visitantes</b></p>  
+      <br><p align="center"><b>Visitor Count</b></p>  
          <p align="center"><img align="center" src="https://profile-counter.glitch.me/{KaueTTS}/count.svg"/></p>
       <br>
    </div>
