@@ -142,7 +142,7 @@
    <br>
 
    <details closed>
-   <summary><b>Ferramentas</b></summary>  
+   <summary><b>Tools</b></summary>  
       <div width="40px">
          <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,codepen" />
          <br>
