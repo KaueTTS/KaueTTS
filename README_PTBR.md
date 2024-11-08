@@ -182,5 +182,5 @@
       <br>
    </div>
 
-   <h6 align="center">Copyright © 2023 by KauêTTS | All Rights Reserverd.</h6>
+   <h6 align="center">Direitos autorais © 2023 por KauêTTS | Todos os direitos são reservados.</h6>
 </div>
