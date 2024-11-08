@@ -88,7 +88,7 @@
 
 <div align="center">
 
-   ## 🛠️ Tecnologias e Ferramentas</h2>
+   ## 🛠️ Tecnologias e Ferramentas
 
    <h3><b>Minhas especializações</b></h3>
 

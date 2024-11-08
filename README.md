@@ -15,6 +15,7 @@
    <a href="https://github.com/KaueTTS"><span>ENGLISH</span></a> |
    <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_PTBR.md"><span>PORTUGUESE</span></a> |
    <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_ES.md"><span>SPANISH</span></a>
+
 </div>
 
 <div>
@@ -26,7 +27,7 @@
    <br>
    <br>
 
-   - 📌 I am part of the SP Operations team at **GrupoMulti.****
+   - 📌 I am part of the SP Operations team at **GrupoMulti**.
    - 🔌 Currently, I work as a **Junior Systems Analyst** at Multi, providing support for various systems (*Mercury, Intranet, Multiyou, Max, etc*).
    - 👨🏻‍💻 I am studying to become a **FullStack Developer**.
    - 📚 I am currently learning the **PHP** language.
@@ -41,16 +42,16 @@
 
 <div>
 
-   ## 💰 Experiência Profissional e Acadêmica
+   ## 💰 Professional and Academic Experience
 
-   <h3>Experiências Profissionais:</h3>
+   <h3>Professional Experiences:</h3>
 
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
    **Eletroeletrônicos e Informática** \
    [**GrupoMulti**](https://www.multilaser.com.br/) • Remota (Tempo de empresa: 1a 9m) \
    Competências: `Suporte em Hardwares e Softwares`, `Suporte em SO (Windows 10/11, Mac OS, Linux, Android e IOS)`, `Controle de Estoque`,`Controle de Chips/Linhas`, `Preparo e reparo de máquinas/celulares`, `Gerenciamento de usuários no Active Directory`, `Consultas e validações em SQLServer, MySQL e MongoDB`, `Documentação de processos, ajustes e correções dos sistemas Multi no Confluence`, `Plataforma de API Postman para correções de dados`, `Datadog e Grafana para acompanhamento de erros`, `Realização de ajustes e correções pontuais em projetos e procedures`, `Criação de Dashboard na plataforma JIRA`, `Atendimento N1 e N2 para colaboradores na plataforma JIRA`
 
-   <h3>Experiências Acadêmicas:</h3>
+   <h3>Academic Experiences:</h3>
 
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/DZ4CsXCp/beb7593d7a55a49804b75a36a841c0b9.jpg"/>](https://estacio.br/)
    **Engenharia de Software** \
@@ -63,7 +64,7 @@
 
 <div>
 
-   ## 🎯 Planos futuros
+   ## 🎯 Future Plans
 
    <img width="380px" height="320px" align="left" alt="GIF" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
@@ -89,7 +90,7 @@
 
 <div align="center">
 
-   ## 🛠️ Tecnologias e Ferramentas</h2>
+   ## 🛠️ Technologies and Tools
 
    <h3><b>Minhas especializações</b></h3>
 
