@@ -12,8 +12,8 @@
       Minha paixão por tecnologia vem desde que me conheço por gente, impulsionando-me a aprender, criar e inovar. A cada linha de código que escrevo, sinto-me mais próximo de transformar ideias em realidade, e cada novo projeto é uma jornada emocionante de descoberta.
    </p>
 
-   <a href="https://github.com/KaueTTS"><span>PORTUGUÊS</span></a> |
-   <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_EN.md"><span>INGLÊS</span></a> |
+   <a href="https://github.com/KaueTTS"><span>ENGLISH</span></a> |
+   <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_PTBR.md"><span>PORTGUÊS</span></a> |
    <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_ES.md"><span>ESPANHOL</span></a>
 </div>
 
