@@ -68,20 +68,20 @@
 
    <img width="380px" height="320px" align="left" alt="GIF" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
-   <h3 align="center">Metas para os próximos 5 anos (2023 - 2028)</h3>
+   <h3 align="center">Goals for the next 5 years (2023 - 2028)</h3>
 
    ```
-   🖌️ | Completar os estudos de Desenvolvimento Front-End.
+   🖌️ | Complete Front-End Development studies.
 
-   🧠 | Concluir com êxito a Faculdade de Engenharia de Software.
+   🧠 | Successfully complete the Faculty of Software Engineering.
 
-   🌟 | Compartilhar meus conhecimentos e experiências adquiridos nessa jornada como desenvolvedor.
+   🌟 | Share my knowledge and experiences acquired on this journey as a developer.
 
-   📖 | Ingressar no mercado de trabalho como desenvolvedor.
+   📖 | Enter the job market as a developer.
 
-   🌎 | Possuir um inglês intermediário/avançado.
+   🌎 | Have intermediate/advanced English.
 
-   🤖 | Construir um mega projeto utilizando Frontend, Backend, API e Banco.
+   🤖 | Build a mega project using Frontend, Backend, API and Bank.
    ```
 
 </div>
@@ -92,7 +92,7 @@
 
    ## 🛠️ Technologies and Tools
 
-   <h3><b>Minhas especializações</b></h3>
+   <h3><b>My specializations</b></h3>
 
    <details closed >
    <summary><b>Front-End</b></summary>
