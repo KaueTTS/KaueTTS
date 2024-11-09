@@ -47,15 +47,15 @@
    <h3>Professional Experiences:</h3>
 
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
-   **Eletroeletrônicos e Informática** \
-   [**GrupoMulti**](https://www.multilaser.com.br/) • Remota (Tempo de empresa: 1a 9m) \
+   **Electronics and IT** \
+   [**GrupoMulti**](https://www.multilaser.com.br/) • Remote (Company time: 1y 9m) \
    Competências: `Suporte em Hardwares e Softwares`, `Suporte em SO (Windows 10/11, Mac OS, Linux, Android e IOS)`, `Controle de Estoque`,`Controle de Chips/Linhas`, `Preparo e reparo de máquinas/celulares`, `Gerenciamento de usuários no Active Directory`, `Consultas e validações em SQLServer, MySQL e MongoDB`, `Documentação de processos, ajustes e correções dos sistemas Multi no Confluence`, `Plataforma de API Postman para correções de dados`, `Datadog e Grafana para acompanhamento de erros`, `Realização de ajustes e correções pontuais em projetos e procedures`, `Criação de Dashboard na plataforma JIRA`, `Atendimento N1 e N2 para colaboradores na plataforma JIRA`
 
    <h3>Academic Experiences:</h3>
 
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/DZ4CsXCp/beb7593d7a55a49804b75a36a841c0b9.jpg"/>](https://estacio.br/)
-   **Engenharia de Software** \
-   [**Estácio**](https://estacio.br/) • EAD (Cursando) \
+   **Software Engineering** \
+   [**Estácio**](https://estacio.br/) • EAD (Studying) \
    Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`, `PHP`, `Desenvolvimento de Softwares`, `Desenvolvimento Web`, `Arquitetura de computadores`, `Banco de Dados`
 
 </div>
