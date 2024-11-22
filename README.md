@@ -49,7 +49,7 @@
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
    **Electronics and IT** \
    [**GrupoMulti**](https://www.multilaser.com.br/) • Remote (Company time: 1y 9m) \
-   Competências: `Hardware and Software support`, `Suporte em SO (Windows 10/11, Mac OS, Linux, Android e IOS)`, `Controle de Estoque`,`Controle de Chips/Linhas`, `Preparo e reparo de máquinas/celulares`, `Gerenciamento de usuários no Active Directory`, `Consultas e validações em SQLServer, MySQL e MongoDB`, `Documentação de processos, ajustes e correções dos sistemas Multi no Confluence`, `Plataforma de API Postman para correções de dados`, `Datadog e Grafana para acompanhamento de erros`, `Realização de ajustes e correções pontuais em projetos e procedures`, `Criação de Dashboard na plataforma JIRA`, `Atendimento N1 e N2 para colaboradores na plataforma JIRA`
+   Competências: `Hardware and Software support`, `OS support (Windows 10/11, Mac OS, Linux, Android e IOS)`, `Stock Control`,`Chip/Line Control`, `Preparation and repair of machines/cell phones`, `User management in Active Directory`, `Queries and validations in SQLServer, MySQL and MongoDB`, `Documentação de processos, ajustes e correções dos sistemas Multi no Confluence`, `Plataforma de API Postman para correções de dados`, `Datadog e Grafana para acompanhamento de erros`, `Realização de ajustes e correções pontuais em projetos e procedures`, `Criação de Dashboard na plataforma JIRA`, `Atendimento N1 e N2 para colaboradores na plataforma JIRA`
 
    <h3>Academic Experiences:</h3>
 
