@@ -47,14 +47,14 @@
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
    **Eletroeletrônicos e Informática** \
    [**GrupoMulti**](https://www.multilaser.com.br/) • Remota (Tempo de empresa: 1a 9m) \
-   Competências: `Suporte em Hardwares e Softwares`, `Suporte em SO (Windows 10/11, Mac OS, Linux, Android e IOS)`, `Controle de Estoque`,`Controle de Chips/Linhas`, `Preparo e reparo de máquinas/celulares`, `Gerenciamento de usuários no Active Directory`, `Consultas e validações em SQLServer, MySQL e MongoDB`, `Documentação de processos, ajustes e correções dos sistemas Multi no Confluence`, `Plataforma de API Postman para correções de dados`, `Datadog e Grafana para acompanhamento de erros`, `Realização de ajustes e correções pontuais em projetos e procedures`, `Criação de Dashboard na plataforma JIRA`, `Atendimento N1 e N2 para colaboradores na plataforma JIRA`
+   Competências: `Suporte em Hardwares, Softwares, Impressoras e Sistemas Multi`, `Suporte em SO (Windows 10/11, Mac OS, Linux, Android e IOS)`, `Controle de Estoque e Chips(Linhas)`, `Preparo e reparo de máquinas ou celulares`, `Gerenciamento de usuários no Active Directory`, `Crição de imagens ISO`, `Atendimento de chamados N1 e N2 no Jira Workspace`, `Automatização de tarefas (.bat / .shell)`, `Configuração do Office 365`, `Criação e Automatização de Planilhas (.xlsx)`, `Criação de documentação e ajustes de processos (Confluence e Slack)`, `Consultas e correções de dados no MySQL, SQLServer, MongoDB e API Postman`, `Datadog e Grafana para acompanhamento de erros`, `Apoio para equipes da T.I (Desenvolvimento, Microinformática, etc)`, `Correções pontuais em projetos e procedures`, `Criação de Dashboard no Jira`
 
    <h3>Experiências Acadêmicas:</h3>
 
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/DZ4CsXCp/beb7593d7a55a49804b75a36a841c0b9.jpg"/>](https://estacio.br/)
    **Engenharia de Software** \
    [**Estácio**](https://estacio.br/) • EAD (Cursando) \
-   Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`, `PHP`, `Desenvolvimento de Softwares`, `Desenvolvimento Web`, `Arquitetura de computadores`, `Banco de Dados`
+   Competências:  `Arquitetura de computadores`, `Paradigmas de Linguagens de Programação em Python`, `Introdução à Segurança da informação`, `Processos de Desenvolvimento de Software`, `Prensamento Computacional`, `Fundamentos de Redes de Computadores`, `Sistemas de Informacao e Sociedade`, `Desenvolvimento Web em HTML5, CSS, JavaScript e PHP`, `Matemática e Lógica`, `Requisitos de Sistemas`, `Engenharia de Usabilidade`, `Arquitetura de Sistemas`, `Estrutura de Dados`, `Banco de Dados`, `Gerência de Configuração`, `Programação Orientada a Objetos em Java`, `Comportamento Organizacional`, `Sistemas Operacionais`, `Indicadores de Desempenho de TI`
 
 </div>
 

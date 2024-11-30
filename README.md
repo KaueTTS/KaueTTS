@@ -48,15 +48,15 @@
 
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
    **Electronics and IT** \
-   [**GrupoMulti**](https://www.multilaser.com.br/) • Remote (Company time: 1y 9m) \
-   Competências: `Hardware and Software support`, `OS support (Windows 10/11, Mac OS, Linux, Android e IOS)`, `Stock Control`,`Chip/Line Control`, `Preparation and repair of machines/cell phones`, `User management in Active Directory`, `Queries and validations in SQLServer, MySQL and MongoDB`, `Documentação de processos, ajustes e correções dos sistemas Multi no Confluence`, `Plataforma de API Postman para correções de dados`, `Datadog e Grafana para acompanhamento de erros`, `Realização de ajustes e correções pontuais em projetos e procedures`, `Criação de Dashboard na plataforma JIRA`, `Atendimento N1 e N2 para colaboradores na plataforma JIRA`
+   [**GrupoMulti**](https://www.multilaser.com.br/) • Remote (Company time: 1y 10m) \
+   Skills: `Support in Hardware, Software, Printers and Multi Systems`, `Support in OS (Windows 10/11, Mac OS, Linux, Android and IOS)`, `Inventory Control and Chips (Lines)`, `Preparation and repair of machines or cell phones`, `User management in Active Directory`, `Creation of ISO images`, `Answering N1 and N2 tickets in Jira Workspace`, `Task Automation (.bat / .shell)`, `Office 365 Configuration`, `Spreadsheet Creation and Automation (.xlsx)`, `Documentation Creation and Process Adjustments (Confluence and Slack) `, `Queries and data corrections in MySQL, SQLServer, MongoDB and Postman API`, `Datadog and Grafana for error tracking`, `Support for IT teams (Development, Microinformatics, etc.)`, `Special corrections to projects and procedures`, `Creation of Dashboard in Jira`
 
    <h3>Academic Experiences:</h3>
 
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/DZ4CsXCp/beb7593d7a55a49804b75a36a841c0b9.jpg"/>](https://estacio.br/)
    **Software Engineering** \
    [**Estácio**](https://estacio.br/) • EAD (Studying) \
-   Competências:  `Segurança da informação`, `Python`, `Requisitos de sistemas`, `PHP`, `Desenvolvimento de Softwares`, `Desenvolvimento Web`, `Arquitetura de computadores`, `Banco de Dados`
+   Skills:  `Computer Architecture`, `Paradigms of Programming Languages ​​in Python`, `Introduction to Information Security`, `Software Development Processes`, `Computational Pressing`, `Fundamentals of Computer Networks`, `Information Systems and Society`, `Web Development in HTML5, CSS, JavaScript and PHP`, `Mathematics and Logic`, `Systems Requirements`, `Usability Engineering`, `Systems Architecture`, `Data Structure`, `Database`, `Configuration Management`, `Object Oriented Programming in Java`, `Organizational Behavior`, `Operating Systems`, `IT Performance Indicators`
 
 </div>
 
