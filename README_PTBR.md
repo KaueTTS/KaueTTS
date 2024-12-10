@@ -172,8 +172,8 @@
 
 <div>
    <p align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueTTS&show_icons=true&theme=tokyonight"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueTTS&layout=compact&langs_count=8&theme=tokyonight"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueTTS&hide=contribs&show=prs_merged&show_icons=true&theme=tokyonight&locale=pt-br"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueTTS&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"/>
    </p>
 
    <div align="center">
