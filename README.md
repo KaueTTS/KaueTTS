@@ -13,8 +13,8 @@
    </p>
 
    <a href="https://github.com/KaueTTS"><span>ENGLISH</span></a> |
-   <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_PTBR.md"><span>PORTUGUESE</span></a> |
-   <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_ES.md"><span>SPANISH</span></a>
+   <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_PTBR.md"><span>PORTUGUÊS</span></a> |
+   <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_ES.md"><span>ESPAÑOL</span></a>
 
 </div>
 
