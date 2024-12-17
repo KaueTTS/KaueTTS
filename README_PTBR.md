@@ -15,6 +15,7 @@
    <a href="https://github.com/KaueTTS"><span>ENGLISH</span></a> |
    <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_PTBR.md"><span>PORTUGUÊS</span></a> |
    <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_ES.md"><span>ESPAÑOL</span></a>
+   
 </div>
 
 <div>
@@ -93,20 +94,13 @@
    <h3><b>Minhas especializações</b></h3>
 
    <details closed >
-   <summary><b>Front-End</b></summary>
+   <summary><b>Linguagens</b></summary>
       <div width="40px">
          <img src="https://skillicons.dev/icons?i=html,css,javascript,markdown,scss" />
          <br>
-         <img src="https://skillicons.dev/icons?i=react,vuejs" />
-      </div>
-   </details>
-
-   <br>
-
-   <details closed>
-   <summary><b>API</b></summary>
-      <div width="40px">
-         <img src="https://skillicons.dev/icons?i=postman" />
+         <img src="https://skillicons.dev/icons?i=react,vuejs,php,python,nodejs" />
+         <br>
+         <img src="https://skillicons.dev/icons?i=ts" />
       </div>
    </details>
    
@@ -122,16 +116,7 @@
    <br>
 
    <details closed>
-   <summary><b>Back-End</b></summary>
-      <div width="40px">
-         <img src="https://skillicons.dev/icons?i=php,python,nodejs,ts" />
-      </div>
-   </details>
-
-   <br>
-
-   <details closed>
-   <summary><b>Database</b></summary>
+   <summary><b>Banco de dados</b></summary>
       <div width="40px">
          <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
       </div>   
@@ -145,6 +130,8 @@
          <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,codepen" />
          <br>
          <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,gamemakerstudio,gitlab,grafana" />
+         <br>
+         <img src="https://skillicons.dev/icons?i=postman" />
       </div> 
    </details>
 

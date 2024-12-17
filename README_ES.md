@@ -17,3 +17,24 @@
    <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_ES.md"><span>ESPAÑOL</span></a>
 
 </div>
+
+<div>
+
+   ## 📝 Acerca de Mí
+
+   <img width="200px" align="right" src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif">
+
+   <br>
+
+   - 📌 Soy parte del equipo de Operaciones SP de **GrupoMulti**.
+   - 🔌Actualmente soy **Analista de Sistemas JR** en Multi, trabajando en soporte de sistemas (*Mercury, Intranet, Multiyou, Max, etc*).
+   - 👨🏻‍💻 Estoy estudiando para convertirme en **Desarrollador FullStack**.
+   - 📚 Actualmente estoy aprendiendo el idioma **PHP**.
+   - 💪 Siempre estoy haciendo algún tipo de actividad física, ya que me ayuda con mi concentración y ansiedad.
+   - 🎮 Disfruto jugando algunos juegos de vez en cuando.
+   - 🤝 Busco intercambiar información sobre **Desarrollo** para ayudar con el crecimiento profesional.
+
+</div>
+
+<br>
+<br>

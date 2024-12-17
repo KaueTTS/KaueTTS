@@ -95,20 +95,13 @@
    <h3><b>My specializations</b></h3>
 
    <details closed >
-   <summary><b>Front-End</b></summary>
+   <summary><b>Languages</b></summary>
       <div width="40px">
          <img src="https://skillicons.dev/icons?i=html,css,javascript,markdown,scss" />
          <br>
-         <img src="https://skillicons.dev/icons?i=react,vuejs" />
-      </div>
-   </details>
-
-   <br>
-
-   <details closed>
-   <summary><b>API</b></summary>
-      <div width="40px">
-         <img src="https://skillicons.dev/icons?i=postman" />
+         <img src="https://skillicons.dev/icons?i=react,vuejs,php,python,nodejs" />
+         <br>
+         <img src="https://skillicons.dev/icons?i=ts" />
       </div>
    </details>
    
@@ -118,15 +111,6 @@
    <summary><b>Framework</b></summary>
       <div width="40px">
          <img src="https://skillicons.dev/icons?i=electron,tailwindcss,laravel,materialui" />
-      </div>
-   </details>
-
-   <br>
-
-   <details closed>
-   <summary><b>Back-End</b></summary>
-      <div width="40px">
-         <img src="https://skillicons.dev/icons?i=php,python,nodejs,ts" />
       </div>
    </details>
 
@@ -147,6 +131,8 @@
          <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,codepen" />
          <br>
          <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,gamemakerstudio,gitlab,grafana" />
+         <br>
+         <img src="https://skillicons.dev/icons?i=postman" />
       </div> 
    </details>
 
