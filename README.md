@@ -48,7 +48,7 @@
 
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
    **Electronics and IT** \
-   [**GrupoMulti**](https://www.multilaser.com.br/) • Remote (Company time: 1y 10m) \
+   [**GrupoMulti**](https://www.multilaser.com.br/) • Remote (Company time: 2y 0m) \
    Skills: `Support in Hardware, Software, Printers and Multi Systems`, `Support in OS (Windows 10/11, Mac OS, Linux, Android and IOS)`, `Inventory Control and Chips (Lines)`, `Preparation and repair of machines or cell phones`, `User management in Active Directory`, `Creation of ISO images`, `Answering N1 and N2 tickets in Jira Workspace`, `Task Automation (.bat / .shell)`, `Office 365 Configuration`, `Spreadsheet Creation and Automation (.xlsx)`, `Documentation Creation and Process Adjustments (Confluence and Slack) `, `Queries and data corrections in MySQL, SQLServer, MongoDB and Postman API`, `Datadog and Grafana for error tracking`, `Support for IT teams (Development, Microinformatics, etc.)`, `Special corrections to projects and procedures`, `Creation of Dashboard in Jira`
 
    <h3>Academic Experiences:</h3>
