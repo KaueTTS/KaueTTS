@@ -70,17 +70,17 @@
    <h3 align="center">Metas para los próximos 5 años (2023 - 2028)</h3>
 
    ```
-   🖌️ | Completar os estudos de Desenvolvimento Front-End.
+   🖌️ | Estudios completos de Desarrollo Front-End.
 
-   🧠 | Concluir com êxito a Faculdade de Engenharia de Software.
+   🧠 | Completar con éxito la Facultad de Ingeniería de Software.
 
-   🌟 | Compartilhar meus conhecimentos e experiências adquiridos nessa jornada como desenvolvedor.
+   🌟 | Compartir mis conocimientos y experiencias adquiridas en este viaje como desarrollador.
 
-   📖 | Ingressar no mercado de trabalho como desenvolvedor.
+   📖 | Ingrese al mercado laboral como desarrollador.
 
-   🌎 | Possuir um inglês intermediário/avançado.
+   🌎 | Tener inglés intermedio/avanzado.
 
-   🤖 | Construir um mega projeto utilizando Frontend, Backend, API e Banco.
+   🤖 | Construya un mega proyecto usando Frontend, Backend, API y Bank.
    ```
 
 </div>
