@@ -58,3 +58,29 @@
    Competências:  `Arquitetura de computadores`, `Paradigmas de Linguagens de Programação em Python`, `Introdução à Segurança da informação`, `Processos de Desenvolvimento de Software`, `Prensamento Computacional`, `Fundamentos de Redes de Computadores`, `Sistemas de Informacao e Sociedade`, `Desenvolvimento Web em HTML5, CSS, JavaScript e PHP`, `Matemática e Lógica`, `Requisitos de Sistemas`, `Engenharia de Usabilidade`, `Arquitetura de Sistemas`, `Estrutura de Dados`, `Banco de Dados`, `Gerência de Configuração`, `Programação Orientada a Objetos em Java`, `Comportamento Organizacional`, `Sistemas Operacionais`, `Indicadores de Desempenho de TI`
 
 </div>
+
+<br>
+
+<div>
+
+   ## 🎯 Planes futuros
+
+   <img width="380px" height="320px" align="left" alt="GIF" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
+
+   <h3 align="center">Metas para los próximos 5 años (2023 - 2028)</h3>
+
+   ```
+   🖌️ | Completar os estudos de Desenvolvimento Front-End.
+
+   🧠 | Concluir com êxito a Faculdade de Engenharia de Software.
+
+   🌟 | Compartilhar meus conhecimentos e experiências adquiridos nessa jornada como desenvolvedor.
+
+   📖 | Ingressar no mercado de trabalho como desenvolvedor.
+
+   🌎 | Possuir um inglês intermediário/avançado.
+
+   🤖 | Construir um mega projeto utilizando Frontend, Backend, API e Banco.
+   ```
+
+</div>
