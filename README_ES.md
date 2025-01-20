@@ -50,7 +50,7 @@
    [**GrupoMulti**](https://www.multilaser.com.br/) • Remoto (Tiempo de empresa: 2a 0m) \
    Competências: `Suporte em Hardwares, Softwares, Impressoras e Sistemas Multi`, `Suporte em SO (Windows 10/11, Mac OS, Linux, Android e IOS)`, `Controle de Estoque e Chips(Linhas)`, `Preparo e reparo de máquinas ou celulares`, `Gerenciamento de usuários no Active Directory`, `Crição de imagens ISO`, `Atendimento de chamados N1 e N2 no Jira Workspace`, `Automatização de tarefas (.bat / .shell)`, `Configuração do Office 365`, `Criação e Automatização de Planilhas (.xlsx)`, `Criação de documentação e ajustes de processos (Confluence e Slack)`, `Consultas e correções de dados no MySQL, SQLServer, MongoDB e API Postman`, `Datadog e Grafana para acompanhamento de erros`, `Apoio para equipes da T.I (Desenvolvimento, Microinformática, etc)`, `Correções pontuais em projetos e procedures`, `Criação de Dashboard no Jira`
 
-   <h3>Experiências Acadêmicas:</h3>
+   <h3>Experiencias Académicas:</h3>
 
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/DZ4CsXCp/beb7593d7a55a49804b75a36a841c0b9.jpg"/>](https://estacio.br/)
    **Ingeniería de software** \
@@ -82,5 +82,57 @@
 
    🤖 | Construya un mega proyecto usando Frontend, Backend, API y Bank.
    ```
+
+</div>
+
+<br>
+
+<div align="center">
+
+   ## 🛠️ Tecnologías y herramientas
+
+   <h3><b>Mis especializaciones</b></h3>
+
+   <details closed >
+   <summary><b>Idiomas</b></summary>
+      <div width="40px">
+         <img src="https://skillicons.dev/icons?i=html,css,javascript,markdown,scss" />
+         <br>
+         <img src="https://skillicons.dev/icons?i=react,vuejs,php,python,nodejs" />
+         <br>
+         <img src="https://skillicons.dev/icons?i=ts" />
+      </div>
+   </details>
+   
+   <br>
+
+   <details closed>
+   <summary><b>Framework</b></summary>
+      <div width="40px">
+         <img src="https://skillicons.dev/icons?i=electron,tailwindcss,laravel,materialui" />
+      </div>
+   </details>
+
+   <br>
+
+   <details closed>
+   <summary><b>Base de datos</b></summary>
+      <div width="40px">
+         <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+      </div>   
+   </details>
+
+   <br>
+
+   <details closed>
+   <summary><b>Herramientas</b></summary>  
+      <div width="40px">
+         <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,codepen" />
+         <br>
+         <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,gamemakerstudio,gitlab,grafana" />
+         <br>
+         <img src="https://skillicons.dev/icons?i=postman" />
+      </div> 
+   </details>
 
 </div>
