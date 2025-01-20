@@ -136,3 +136,21 @@
    </details>
 
 </div>
+
+<br>
+
+<div align="center" display="inline">
+
+   ## 🌐 Redes Sociales
+
+   [![Instagram: kauebertaze](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauebertaze/)&nbsp;
+   [![Linkedin: Kauê Bertaze](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kauebertaze/)&nbsp;
+   [![Gmail: kauebertaze2004](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauebertaze2004@gmail.com)&nbsp;
+   [![GitHub: Kauê Bertaze](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&link=kauebertaze)](https://github.com/KaueTTS)&nbsp;
+   [![Discord: kauetts](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/663580434101305345)&nbsp;
+
+   <p>
+      El futuro es apasionante, está lleno de infinitas posibilidades y estoy decidido a aprovechar cada una de ellas. Soy un soñador que busca transformar el mundo a través de la tecnología, y sé que estoy sólo en la primera página de mi historia.
+   </p>
+
+</div>
