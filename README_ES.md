@@ -154,3 +154,20 @@
    </p>
 
 </div>
+
+##
+
+<div>
+   <p align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueTTS&hide=contribs&show=prs_merged&show_icons=true&theme=tokyonight&locale=pt-br"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueTTS&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"/>
+   </p>
+
+   <div align="center">
+      <br><p align="center"><b>Contagem de Visitantes</b></p>  
+         <p align="center"><img align="center" src="https://profile-counter.glitch.me/{KaueTTS}/count.svg"/></p>
+      <br>
+   </div>
+
+   <h6 align="center">Direitos autorais © 2023 por KauêTTS | Todos os direitos são reservados.</h6>
+</div>
