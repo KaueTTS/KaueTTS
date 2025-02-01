@@ -164,10 +164,10 @@
    </p>
 
    <div align="center">
-      <br><p align="center"><b>Contagem de Visitantes</b></p>  
+      <br><p align="center"><b>Conteo de visitantes</b></p>  
          <p align="center"><img align="center" src="https://profile-counter.glitch.me/{KaueTTS}/count.svg"/></p>
       <br>
    </div>
 
-   <h6 align="center">Direitos autorais © 2023 por KauêTTS | Todos os direitos são reservados.</h6>
+   <h6 align="center">Copyright © 2023 por KauêTTS | Todos los derechos están reservados.</h6>
 </div>
