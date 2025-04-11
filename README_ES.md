@@ -48,14 +48,55 @@
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
    **Electrónica y TI** \
    [**GrupoMulti**](https://www.multilaser.com.br/) • Remoto (Tiempo de empresa: 2a 0m) \
-   Competências: `Suporte em Hardwares, Softwares, Impressoras e Sistemas Multi`, `Suporte em SO (Windows 10/11, Mac OS, Linux, Android e IOS)`, `Controle de Estoque e Chips(Linhas)`, `Preparo e reparo de máquinas ou celulares`, `Gerenciamento de usuários no Active Directory`, `Crição de imagens ISO`, `Atendimento de chamados N1 e N2 no Jira Workspace`, `Automatização de tarefas (.bat / .shell)`, `Configuração do Office 365`, `Criação e Automatização de Planilhas (.xlsx)`, `Criação de documentação e ajustes de processos (Confluence e Slack)`, `Consultas e correções de dados no MySQL, SQLServer, MongoDB e API Postman`, `Datadog e Grafana para acompanhamento de erros`, `Apoio para equipes da T.I (Desenvolvimento, Microinformática, etc)`, `Correções pontuais em projetos e procedures`, `Criação de Dashboard no Jira`
+   <details><summary closed>Competências</summary>
+      <p>   
+         <code>Suporte em Hardwares, Softwares, Impressoras e Sistemas Multi</code>, 
+         <code>Suporte em SO (Windows 10/11, Mac OS, Linux, Android e IOS)</code>, 
+         <code>Controle de Estoque e Chips(Linhas)</code>, 
+         <code>Preparo e reparo de máquinas ou celulares</code>, 
+         <code>Gerenciamento de usuários no Active Directory</code>, 
+         <code>Crição de imagens ISO</code>, 
+         <code>Atendimento de chamados N1 e N2 no Jira Workspace</code>, 
+         <code>Automatização de tarefas (.bat / .shell)</code>, 
+         <code>Configuração do Office 365</code>, 
+         <code>Criação e Automatização de Planilhas (.xlsx)</code>, 
+         <code>Criação de documentação e ajustes de processos (Confluence e Slack)</code>, 
+         <code>Consultas e correções de dados no MySQL, SQLServer, MongoDB e API Postman</code>, 
+         <code>Datadog e Grafana para acompanhamento de erros</code>, 
+         <code>Apoio para equipes da T.I (Desenvolvimento, Microinformática, etc)</code>, 
+         <code>Correções pontuais em projetos e procedures</code>, 
+         <code>Criação de Dashboard no Jira</code>
+      </p>
+   </details>
 
    <h3>Experiencias Académicas:</h3>
 
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/DZ4CsXCp/beb7593d7a55a49804b75a36a841c0b9.jpg"/>](https://estacio.br/)
    **Ingeniería de software** \
    [**Estácio**](https://estacio.br/) • EAD (Estudiando) \
-   Competências:  `Arquitetura de computadores`, `Paradigmas de Linguagens de Programação em Python`, `Introdução à Segurança da informação`, `Processos de Desenvolvimento de Software`, `Prensamento Computacional`, `Fundamentos de Redes de Computadores`, `Sistemas de Informacao e Sociedade`, `Desenvolvimento Web em HTML5, CSS, JavaScript e PHP`, `Matemática e Lógica`, `Requisitos de Sistemas`, `Engenharia de Usabilidade`, `Arquitetura de Sistemas`, `Estrutura de Dados`, `Banco de Dados`, `Gerência de Configuração`, `Programação Orientada a Objetos em Java`, `Comportamento Organizacional`, `Sistemas Operacionais`, `Indicadores de Desempenho de TI`
+   <details><summary closed>Competências</summary>
+      <p>
+         <code>Arquitetura de computadores</code>, 
+         <code>Paradigmas de Linguagens de Programação em Python</code>, 
+         <code>Introdução à Segurança da informação</code>, 
+         <code>Processos de Desenvolvimento de Software</code>, 
+         <code>Prensamento Computacional</code>, 
+         <code>Fundamentos de Redes de Computadores</code>, 
+         <code>Sistemas de Informacao e Sociedade</code>, 
+         <code>Desenvolvimento Web em HTML5, CSS, JavaScript e PHP</code>, 
+         <code>Matemática e Lógica</code>, 
+         <code>Requisitos de Sistemas</code>, 
+         <code>Engenharia de Usabilidade</code>, 
+         <code>Arquitetura de Sistemas</code>, 
+         <code>Estrutura de Dados</code>, 
+         <code>Banco de Dados</code>, 
+         <code>Gerência de Configuração</code>, 
+         <code>Programação Orientada a Objetos em Java</code>, 
+         <code>Comportamento Organizacional</code>, 
+         <code>Sistemas Operacionais</code>, 
+         <code>Indicadores de Desempenho de TI</code>
+      </p>
+   </details>
 
 </div>
 
