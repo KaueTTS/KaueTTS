@@ -48,7 +48,7 @@
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
    **Electrónica y TI** \
    [**GrupoMulti**](https://www.multilaser.com.br/) • Remoto (Tiempo de empresa: 2a 0m) \
-   <details><summary closed>Competências</summary>
+   <details><summary closed>Habilidades</summary>
       <p>   
          <code>Suporte em Hardwares, Softwares, Impressoras e Sistemas Multi</code>, 
          <code>Suporte em SO (Windows 10/11, Mac OS, Linux, Android e IOS)</code>, 
@@ -74,7 +74,7 @@
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/DZ4CsXCp/beb7593d7a55a49804b75a36a841c0b9.jpg"/>](https://estacio.br/)
    **Ingeniería de software** \
    [**Estácio**](https://estacio.br/) • EAD (Estudiando) \
-   <details><summary closed>Competências</summary>
+   <details><summary closed>Habilidades</summary>
       <p>
          <code>Arquitetura de computadores</code>, 
          <code>Paradigmas de Linguagens de Programação em Python</code>, 
