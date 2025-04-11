@@ -49,7 +49,9 @@
    **Eletroeletrônicos e Informática** \
    [**GrupoMulti**](https://www.multilaser.com.br/) • Remota (Tempo de empresa: 2a 0m) \
    <details><summary>Competências</summary>
-      `Suporte em Hardwares, Softwares, Impressoras e Sistemas Multi`, `Suporte em SO (Windows 10/11, Mac OS, Linux, Android e IOS)`, `Controle de Estoque e Chips(Linhas)`, `Preparo e reparo de máquinas ou celulares`, `Gerenciamento de usuários no Active Directory`, `Crição de imagens ISO`, `Atendimento de chamados N1 e N2 no Jira Workspace`, `Automatização de tarefas (.bat / .shell)`, `Configuração do Office 365`, `Criação e Automatização de Planilhas (.xlsx)`, `Criação de documentação e ajustes de processos (Confluence e Slack)`, `Consultas e correções de dados no MySQL, SQLServer, MongoDB e API Postman`, `Datadog e Grafana para acompanhamento de erros`, `Apoio para equipes da T.I (Desenvolvimento, Microinformática, etc)`, `Correções pontuais em projetos e procedures`, `Criação de Dashboard no Jira`
+      <p>
+         `Suporte em Hardwares, Softwares, Impressoras e Sistemas Multi`, `Suporte em SO (Windows 10/11, Mac OS, Linux, Android e IOS)`, `Controle de Estoque e Chips(Linhas)`, `Preparo e reparo de máquinas ou celulares`, `Gerenciamento de usuários no Active Directory`, `Crição de imagens ISO`, `Atendimento de chamados N1 e N2 no Jira Workspace`, `Automatização de tarefas (.bat / .shell)`, `Configuração do Office 365`, `Criação e Automatização de Planilhas (.xlsx)`, `Criação de documentação e ajustes de processos (Confluence e Slack)`, `Consultas e correções de dados no MySQL, SQLServer, MongoDB e API Postman`, `Datadog e Grafana para acompanhamento de erros`, `Apoio para equipes da T.I (Desenvolvimento, Microinformática, etc)`, `Correções pontuais em projetos e procedures`, `Criação de Dashboard no Jira`
+      </p>
    </details>
 
    <h3>Experiências Acadêmicas:</h3>
