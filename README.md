@@ -48,7 +48,7 @@
 
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
    **Electronics and IT** \
-   [**GrupoMulti**](https://www.multilaser.com.br/) • Remote (Company time: 2y 0m) \
+   [**GrupoMulti**](https://www.multilaser.com.br/) • Remote (Company time: 2y 0m)
    <details><summary closed>Skills</summary> 
       <p>
          <code>Support in Hardware, Software, Printers and Multi Systems</code>, 
@@ -74,7 +74,7 @@
 
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/DZ4CsXCp/beb7593d7a55a49804b75a36a841c0b9.jpg"/>](https://estacio.br/)
    **Software Engineering** \
-   [**Estácio**](https://estacio.br/) • EAD (Studying) \
+   [**Estácio**](https://estacio.br/) • EAD (Studying)
    <details><summary closed>Skills</summary>  
       <p>
          <code>Computer Architecture</code>, 
