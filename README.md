@@ -49,14 +49,55 @@
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
    **Electronics and IT** \
    [**GrupoMulti**](https://www.multilaser.com.br/) • Remote (Company time: 2y 0m) \
-   Skills: `Support in Hardware, Software, Printers and Multi Systems`, `Support in OS (Windows 10/11, Mac OS, Linux, Android and IOS)`, `Inventory Control and Chips (Lines)`, `Preparation and repair of machines or cell phones`, `User management in Active Directory`, `Creation of ISO images`, `Answering N1 and N2 tickets in Jira Workspace`, `Task Automation (.bat / .shell)`, `Office 365 Configuration`, `Spreadsheet Creation and Automation (.xlsx)`, `Documentation Creation and Process Adjustments (Confluence and Slack) `, `Queries and data corrections in MySQL, SQLServer, MongoDB and Postman API`, `Datadog and Grafana for error tracking`, `Support for IT teams (Development, Microinformatics, etc.)`, `Special corrections to projects and procedures`, `Creation of Dashboard in Jira`
+   <details><summary closed>Skills</summary> 
+      <p>
+         <code>Support in Hardware, Software, Printers and Multi Systems</code>, 
+         <code>Support in OS (Windows 10/11, Mac OS, Linux, Android and IOS)</code>, 
+         <code>Inventory Control and Chips (Lines)</code>, 
+         <code>Preparation and repair of machines or cell phones</code>, 
+         <code>User management in Active Directory</code>, 
+         <code>Creation of ISO images</code>, 
+         <code>Answering N1 and N2 tickets in Jira Workspace</code>, 
+         <code>Task Automation (.bat / .shell)</code>, 
+         <code>Office 365 Configuration</code>, 
+         <code>Spreadsheet Creation and Automation (.xlsx)</code>, 
+         <code>Documentation Creation and Process Adjustments (Confluence and Slack) </code>, 
+         <code>Queries and data corrections in MySQL, SQLServer, MongoDB and Postman API</code>, 
+         <code>Datadog and Grafana for error tracking</code>, 
+         <code>Support for IT teams (Development, Microinformatics, etc.)</code>, 
+         <code>Special corrections to projects and procedures</code>, 
+         <code>Creation of Dashboard in Jira</code>
+      </p>
+   </details>
 
    <h3>Academic Experiences:</h3>
 
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/DZ4CsXCp/beb7593d7a55a49804b75a36a841c0b9.jpg"/>](https://estacio.br/)
    **Software Engineering** \
    [**Estácio**](https://estacio.br/) • EAD (Studying) \
-   Skills:  `Computer Architecture`, `Paradigms of Programming Languages ​​in Python`, `Introduction to Information Security`, `Software Development Processes`, `Computational Pressing`, `Fundamentals of Computer Networks`, `Information Systems and Society`, `Web Development in HTML5, CSS, JavaScript and PHP`, `Mathematics and Logic`, `Systems Requirements`, `Usability Engineering`, `Systems Architecture`, `Data Structure`, `Database`, `Configuration Management`, `Object Oriented Programming in Java`, `Organizational Behavior`, `Operating Systems`, `IT Performance Indicators`
+   <details><summary closed>Skills</summary>  
+      <p>
+         <code>Computer Architecture</code>, 
+         <code>Paradigms of Programming Languages ​​in Python</code>, 
+         <code>Introduction to Information Security</code>, 
+         <code>Software Development Processes</code>, 
+         <code>Computational Pressing</code>, 
+         <code>Fundamentals of Computer Networks</code>, 
+         <code>Information Systems and Society</code>, 
+         <code>Web Development in HTML5, CSS, JavaScript and PHP</code>, 
+         <code>Mathematics and Logic</code>, 
+         <code>Systems Requirements</code>, 
+         <code>Usability Engineering</code>, 
+         <code>Systems Architecture</code>, 
+         <code>Data Structure</code>, 
+         <code>Database</code>, 
+         <code>Configuration Management</code>, 
+         <code>Object Oriented Programming in Java</code>, 
+         <code>Organizational Behavior</code>, 
+         <code>Operating Systems</code>, 
+         <code>IT Performance Indicators</code>
+      </p>
+   </details>
 
 </div>
 
