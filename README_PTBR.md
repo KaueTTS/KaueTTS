@@ -47,7 +47,7 @@
 
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
    **Eletroeletrônicos e Informática** \
-   [**GrupoMulti**](https://www.multilaser.com.br/) • Remota (Tempo de empresa: 2a 0m) \
+   [**GrupoMulti**](https://www.multilaser.com.br/) • Remota (Tempo de empresa: 2a 0m)
    <details><summary closed>Competências</summary>
       <p>
          <code>Suporte em Hardwares, Softwares, Impressoras e Sistemas Multi</code>, 
@@ -73,7 +73,7 @@
 
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/DZ4CsXCp/beb7593d7a55a49804b75a36a841c0b9.jpg"/>](https://estacio.br/)
    **Engenharia de Software** \
-   [**Estácio**](https://estacio.br/) • EAD (Cursando) \
+   [**Estácio**](https://estacio.br/) • EAD (Cursando)
    <details><summary closed>Competências</summary>
       <p>
          <code>Arquitetura de computadores</code>, 
