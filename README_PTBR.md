@@ -7,7 +7,7 @@
    </div>
    
    <p>
-      Tenho 20 anos, moro em Diadema/SP e sou apaixonado por tecnologia desde criança!<br>
+      Tenho 21 anos, moro em Diadema/SP e sou apaixonado por tecnologia desde criança!<br>
       Meu princípal objetivo é desenvolver aplicações que forneçam uma experiência incrível ao usuário e que ajude a facilitar o dia a dia do ser humano.<br>
       Minha paixão por tecnologia vem desde que me conheço por gente, impulsionando-me a aprender, criar e inovar. A cada linha de código que escrevo, sinto-me mais próximo de transformar ideias em realidade, e cada novo projeto é uma jornada emocionante de descoberta.
    </p>
@@ -15,7 +15,7 @@
    <a href="https://github.com/KaueTTS"><span>ENGLISH</span></a> |
    <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_PTBR.md"><span>PORTUGUÊS</span></a> |
    <a href="https://github.com/KaueTTS/KaueTTS/blob/main/README_ES.md"><span>ESPAÑOL</span></a>
-   
+
 </div>
 
 <div>
@@ -26,13 +26,14 @@
 
    <br>
 
-   - 📌 Faço parte do time de Operações SP na empresa **GrupoMulti**.
-   - 🔌 Atualmente sou **Analista de Sistemas JR** na Multi, exercendo a função de um suporte à sistemas (*Mercury, Intranet, Multiyou, Max, etc*).
-   - 👨🏻‍💻 Estou estudando para me tornar um **Desenvolvedor FullStack**.
-   - 📚 No momento estou aprendendo a linguagem **PHP**.
-   - 💪 Sempre estou fazendo algum tipo de atividade física, pois ajuda com a minha concentração e ansiedade.
-   - 🎮 Curto jogar uns joguinhos de vez em quando.
-   - 🤝 Busco trocar informações sobre **Desenvolvimento** para ajudar no crescimento profissional.
+   - 📌 Atualmente sou **Desenvolvedor Back-End JR** na empresa **Grupo Multilaser**, desenvolvendo e mantendo sistemas corporativos de alta demanda.
+   - 🏗️ Trabalho diariamente com **arquitetura de microserviços**, integrações entre sistemas e APIs.
+   - 🚀 Minha principal linguagem atualmente é **Golang**, mas também possuo experiência com **PHP** e **JavaScript**.
+   - ⚡ Tenho experiência com **Redis, SQL, NoSQL, Elasticsearch/OpenSearch e Datadog**.
+   - 📚 Estou constantemente estudando **Arquitetura de Software, DDD, Event-Driven Architecture e boas práticas de desenvolvimento**.
+   - 💪 Pratico atividades físicas regularmente e acredito que disciplina e consistência fazem diferença tanto na vida quanto na tecnologia.
+   - 🎮 Nas horas vagas gosto de jogar e explorar novas tecnologias e projetos pessoais.
+   - 🤝 Gosto de trocar experiências sobre desenvolvimento, arquitetura e carreira para crescer junto com a comunidade.
 
 </div>
 
@@ -41,32 +42,26 @@
 
 <div>
 
-   ## 💰 Experiência Profissional e Acadêmica
+   ## 💰 Experiências
 
    <h3>Experiências Profissionais:</h3>
 
-   [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
+   [<img align="left" width="90px" height="90px" alt="Multilaser" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
    **Eletroeletrônicos e Informática** \
-   [**GrupoMulti**](https://www.multilaser.com.br/) • Remota (Tempo de empresa: 2a 0m)
+   [**Grupo Multilaser**](https://www.multilaser.com.br/) • Remota (2023 - Atual)
    <details><summary closed>Competências</summary>
-      <p>
-         <code>Suporte em Hardwares, Softwares, Impressoras e Sistemas Multi</code>, 
-         <code>Suporte em SO (Windows 10/11, Mac OS, Linux, Android e IOS)</code>, 
-         <code>Controle de Estoque e Chips(Linhas)</code>,
-         <code>Preparo e reparo de máquinas ou celulares</code>,
-         <code>Gerenciamento de usuários no Active Directory</code>,
-         <code>Crição de imagens ISO</code>,
-         <code>Atendimento de chamados N1 e N2 no Jira Workspace</code>,
-         <code>Automatização de tarefas (.bat / .shell)</code>,
-         <code>Configuração do Office 365</code>,
-         <code>Criação e Automatização de Planilhas (.xlsx)</code>,
-         <code>Criação de documentação e ajustes de processos (Confluence e Slack)</code>,
-         <code>Consultas e correções de dados no MySQL, SQLServer, MongoDB e API Postman</code>,
-         <code>Datadog e Grafana para acompanhamento de erros</code>,
-         <code>Apoio para equipes da T.I (Desenvolvimento, Microinformática, etc)</code>,
-         <code>Correções pontuais em projetos e procedures</code>, 
-         <code>Criação de Dashboard no Jira</code> 
-      </p>
+   
+      • Desenvolvimento e manutenção de microserviços e APIs REST utilizando Go (Golang) com Fiber e PHP/Laravel;
+      • Implementação de integrações entre serviços internos e sistemas da plataforma Mercury Varejo e Mercury Express;
+      • Implementação de consultas e indexação de dados utilizando Elasticsearch;
+      • Manipulação e modelagem de dados em bancos relacionais e não relacionais;
+      • Atuação em diferentes domínios da plataforma, incluindo serviços de produtos, carrinho, pedidos, clientes, orçamento e BFF;
+      • Integração com APIs internas e externas para processamento de dados e aplicação de regras de negócio;
+      • Monitoramento, observabilidade e troubleshooting de serviços utilizando Datadog;
+      • Colaboração com times de produto e engenharia para evolução da arquitetura da plataforma;
+      • Utilização de Redis para cache e otimização de performance das APIs;
+      • Documentação de endpoints e contratos de API utilizando Swagger/OpenAPI.
+            
    </details>
 
    <h3>Experiências Acadêmicas:</h3>
@@ -75,27 +70,21 @@
    **Engenharia de Software** \
    [**Estácio**](https://estacio.br/) • EAD (Cursando)
    <details><summary closed>Competências</summary>
-      <p>
-         <code>Arquitetura de computadores</code>, 
-         <code>Paradigmas de Linguagens de Programação em Python</code>, 
-         <code>Introdução à Segurança da informação</code>, 
-         <code>Processos de Desenvolvimento de Software</code>, 
-         <code>Prensamento Computacional</code>, 
-         <code>Fundamentos de Redes de Computadores</code>, 
-         <code>Sistemas de Informacao e Sociedade</code>, 
-         <code>Desenvolvimento Web em HTML5, CSS, JavaScript e PHP</code>, 
-         <code>Matemática e Lógica</code>, 
-         <code>Requisitos de Sistemas</code>, 
-         <code>Engenharia de Usabilidade</code>, 
-         <code>Arquitetura de Sistemas</code>, 
-         <code>Estrutura de Dados</code>, 
-         <code>Banco de Dados</code>, 
-         <code>Gerência de Configuração</code>, 
-         <code>Programação Orientada a Objetos em Java</code>, 
-         <code>Comportamento Organizacional</code>, 
-         <code>Sistemas Operacionais</code>, 
-         <code>Indicadores de Desempenho de TI</code>
-      </p>
+      
+      • Introdução à Segurança da informação; 
+      • Sistemas de informação e Sociedade;
+      • Desenvolvimento de Software Seguro;
+      • Desenvolvimento Web em HTML5, CSS, JavaScript e PHP;
+      • Paradigmas de Linguagens de Programação em Python;
+      • Desenvolvimento de Software Seguro;
+      • Programação Orientada a Objetos em Java;
+      • Modelagem de Sistemas UML;
+      • Modelagem de Processos;
+      • Gerenciamento de Projetos;
+      • Indicadores de Desempenho de TI;
+      • Métodos Ágeis com Scrum;
+      • Programação para Dispositivos Móveis em Android;
+
    </details>
 
 </div>
@@ -108,20 +97,20 @@
 
    <img width="380px" height="320px" align="left" alt="GIF" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
-   <h3 align="center">Metas para os próximos 5 anos (2023 - 2028)</h3>
+   <h3 align="center">Metas para os próximos 4 anos (2026 - 2030)</h3>
 
    ```
-   🖌️ | Completar os estudos de Desenvolvimento Front-End.
+   🧠 | Concluir o Bacharelado em Engenharia de Software.
 
-   🧠 | Concluir com êxito a Faculdade de Engenharia de Software.
+   🌟 | Compartilhar conhecimentos e experiências adquiridos ao longo da minha jornada como desenvolvedor.
 
-   🌟 | Compartilhar meus conhecimentos e experiências adquiridos nessa jornada como desenvolvedor.
+   🌎 | Alcançar fluência em inglês para atuar em oportunidades globais.
 
-   📖 | Ingressar no mercado de trabalho como desenvolvedor.
+   🚀 | Desenvolver produtos e projetos que resolvam problemas reais.
 
-   🌎 | Possuir um inglês intermediário/avançado.
+   ☁️ | Aprofundar conhecimentos em Cloud Computing e Sistemas Distribuídos.
 
-   🤖 | Construir um mega projeto utilizando Frontend, Backend, API e Banco.
+   🏗️ | Evoluir continuamente em Arquitetura de Software e Design de Sistemas.
    ```
 
 </div>
@@ -132,25 +121,27 @@
 
    ## 🛠️ Tecnologias e Ferramentas
 
-   <h3><b>Minhas especializações</b></h3>
+   <h3><b>Conhecimentos Técnicos</b></h3>
 
    <details closed >
-   <summary><b>Linguagens</b></summary>
+   <summary><b>Front-End</b></summary>
       <div width="40px">
-         <img src="https://skillicons.dev/icons?i=html,css,javascript,markdown,scss" />
+         <img src="https://i.icoziv.workers.dev/icons?i=html,css,javascript,markdown,scss" />
          <br>
-         <img src="https://skillicons.dev/icons?i=react,vuejs,php,python,nodejs" />
+         <img src="https://i.icoziv.workers.dev/icons?i=react,vuejs,ts,electron,tailwindcss" />
          <br>
-         <img src="https://skillicons.dev/icons?i=ts" />
+         <img src="https://i.icoziv.workers.dev/icons?i=materialui" />
       </div>
    </details>
-   
+
    <br>
 
-   <details closed>
-   <summary><b>Framework</b></summary>
+   <details closed >
+   <summary><b>Back-End</b></summary>
       <div width="40px">
-         <img src="https://skillicons.dev/icons?i=electron,tailwindcss,laravel,materialui" />
+         <img src="https://i.icoziv.workers.dev/icons?i=golang,php,nodejs,python,laravel" />
+         <br>
+         <img src="https://i.icoziv.workers.dev/icons?i=fiber,java" />
       </div>
    </details>
 
@@ -159,20 +150,38 @@
    <details closed>
    <summary><b>Banco de dados</b></summary>
       <div width="40px">
-         <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+         <img src="https://i.icoziv.workers.dev/icons?i=mysql,mongodb,sqlite,sqlserver,redis" />
       </div>   
    </details>
 
    <br>
 
    <details closed>
-   <summary><b>Ferramentas</b></summary>  
+   <summary><b>Busca & Indexação</b></summary>
       <div width="40px">
-         <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,codepen" />
+         <img src="https://i.icoziv.workers.dev/icons?i=elasticsearch" />
+      </div>   
+   </details>
+
+   <br>
+
+   <details closed>
+   <summary><b>Infraestrutura & Observabilidade</b></summary>
+      <div width="40px">
+         <img src="https://i.icoziv.workers.dev/icons?i=docker,grafana,datadog,kubernetes" />
+      </div>   
+   </details>
+
+   <br>
+
+   <details closed>
+   <summary><b>Ferramentas & Produtividade</b></summary>  
+      <div width="40px">
+         <img src="https://i.icoziv.workers.dev/icons?i=vscode,git,github,vercel,codepen" />
          <br>
-         <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,gamemakerstudio,gitlab,grafana" />
+         <img src="https://i.icoziv.workers.dev/icons?i=pycharm,visualstudio,gamemakerstudio,jira,confluence" />
          <br>
-         <img src="https://skillicons.dev/icons?i=postman" />
+         <img src="https://i.icoziv.workers.dev/icons?i=postman,swagger,gitlab" />
       </div> 
    </details>
 
@@ -200,15 +209,13 @@
 
 <div>
    <p align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueTTS&hide=contribs&show=prs_merged&show_icons=true&theme=tokyonight&locale=pt-br"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueTTS&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"/>
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaueTTS&theme=omni"/>
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaueTTS&theme=omni"/>
    </p>
 
    <div align="center">
-      <br><p align="center"><b>Contagem de Visitantes</b></p>  
-         <p align="center"><img align="center" src="https://profile-counter.glitch.me/{KaueTTS}/count.svg"/></p>
-      <br>
+      <img src="https://komarev.com/ghpvc/?username=KaueTTS&color=red&style=for-the-badge&label=Visualizações+do+perfil" alt="Visualições do Perfil" />
    </div>
 
-   <h6 align="center">Direitos autorais © 2023 por KauêTTS | Todos os direitos são reservados.</h6>
+   <h6 align="center">Direitos autorais © 2026 por KauêTTS | Todos os direitos são reservados.</h6>
 </div>
