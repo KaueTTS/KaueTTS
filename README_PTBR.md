@@ -7,8 +7,8 @@
    </div>
    
    <p>
-      Tenho 21 anos, moro em Diadema/SP e sou apaixonado por tecnologia desde criança!<br>
-      Meu princípal objetivo é desenvolver aplicações que forneçam uma experiência incrível ao usuário e que ajude a facilitar o dia a dia do ser humano.<br>
+      Tenho 21 anos, moro em São Paulo e sou apaixonado por tecnologia desde criança!<br>
+      Meu principal objetivo é desenvolver aplicações que forneçam uma experiência incrível ao usuário e que ajude a facilitar o dia a dia das pessoas.<br>
       Minha paixão por tecnologia vem desde que me conheço por gente, impulsionando-me a aprender, criar e inovar. A cada linha de código que escrevo, sinto-me mais próximo de transformar ideias em realidade, e cada novo projeto é uma jornada emocionante de descoberta.
    </p>
 
@@ -29,7 +29,7 @@
    - 📌 Atualmente sou **Desenvolvedor Back-End JR** na empresa **Grupo Multilaser**, desenvolvendo e mantendo sistemas corporativos de alta demanda.
    - 🏗️ Trabalho diariamente com **arquitetura de microserviços**, integrações entre sistemas e APIs.
    - 🚀 Minha principal linguagem atualmente é **Golang**, mas também possuo experiência com **PHP** e **JavaScript**.
-   - ⚡ Tenho experiência com **Redis, SQL, NoSQL, Elasticsearch/OpenSearch e Datadog**.
+   - ⚡ Tenho experiência com **Redis, SQL, NoSQL, Elasticsearch/OpenSearch e observabilidade(Datadog)**.
    - 📚 Estou constantemente estudando **Arquitetura de Software, DDD, Event-Driven Architecture e boas práticas de desenvolvimento**.
    - 💪 Pratico atividades físicas regularmente e acredito que disciplina e consistência fazem diferença tanto na vida quanto na tecnologia.
    - 🎮 Nas horas vagas gosto de jogar e explorar novas tecnologias e projetos pessoais.
@@ -66,7 +66,7 @@
 
    <h3>Experiências Acadêmicas:</h3>
 
-   [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/DZ4CsXCp/beb7593d7a55a49804b75a36a841c0b9.jpg"/>](https://estacio.br/)
+   [<img align="left" width="90px" height="90px" alt="Estácio" src="https://i.postimg.cc/DZ4CsXCp/beb7593d7a55a49804b75a36a841c0b9.jpg"/>](https://estacio.br/)
    **Engenharia de Software** \
    [**Estácio**](https://estacio.br/) • EAD (Cursando)
    <details><summary closed>Competências</summary>
@@ -76,7 +76,7 @@
       • Desenvolvimento de Software Seguro;
       • Desenvolvimento Web em HTML5, CSS, JavaScript e PHP;
       • Paradigmas de Linguagens de Programação em Python;
-      • Desenvolvimento de Software Seguro;
+      • Arquitetura de computadores;
       • Programação Orientada a Objetos em Java;
       • Modelagem de Sistemas UML;
       • Modelagem de Processos;
@@ -221,7 +221,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueTTS/KaueTTS/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueTTS/KaueTTS/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaueTTS/KaueTTS/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
 </picture>

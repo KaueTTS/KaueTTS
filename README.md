@@ -7,7 +7,7 @@
    </div>
    
    <p>
-      I am 20 years old, living in Diadema/SP, and I've been passionate about technology since childhood!<br>
+      I am 21 years old, living in São Paulo, and I've been passionate about technology since childhood!<br>
       My main goal is to develop applications that provide an amazing user experience and help make people's daily lives easier.<br>
       My passion for technology has been with me for as long as I can remember, driving me to learn, create, and innovate. With every line of code I write, I feel closer to turning ideas into reality, and each new project is an exciting journey of discovery
    </p>
@@ -25,15 +25,15 @@
    <img width="200px" align="right" src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif">
 
    <br>
-   <br>
 
-   - 📌 I am part of the SP Operations team at **GrupoMulti**.
-   - 🔌 Currently, I work as a **Junior Systems Analyst** at Multi, providing support for various systems (*Mercury, Intranet, Multiyou, Max, etc*).
-   - 👨🏻‍💻 I am studying to become a **FullStack Developer**.
-   - 📚 I am currently learning the **PHP** language.
-   - 💪 I always engage in some kind of physical activity as it helps with my concentration and anxiety.
-   - 🎮 I enjoy playing video games from time to time.
-   - 🤝 I am eager to exchange information about **Development** to support professional growth.
+   - 📌 I am currently a **Junior Back-End Developer** at **Grupo Multilaser**, developing and maintaining high-demand enterprise systems.
+   - 🏗️ I work daily with **microservices architecture**, system integrations, and APIs.
+   - 🚀 My primary language is currently **Golang**, but I also have experience with **PHP** and **JavaScript**.
+   - ⚡ I have experience with **Redis, SQL, NoSQL, Elasticsearch/OpenSearch, and observability (Datadog)**.
+   - 📚 I am constantly studying **software architecture, DDD, event-driven architecture, and development best practices**.
+   - 💪 I engage in physical activity regularly and believe that discipline and consistency make a difference in both life and technology.
+   - 🎮 In my spare time, I enjoy gaming and exploring new technologies and personal projects.
+   - 🤝 I enjoy exchanging experiences regarding development, architecture, and career paths to grow alongside the community.
 
 </div>
 
@@ -42,61 +42,49 @@
 
 <div>
 
-   ## 💰 Professional and Academic Experience
+   ## 💰 Experiences
 
    <h3>Professional Experiences:</h3>
 
    [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/NfhFgdDS/1659028914663.jpg"/>](https://www.multilaser.com.br/)
    **Electronics and IT** \
-   [**GrupoMulti**](https://www.multilaser.com.br/) • Remote (Company time: 2y 0m)
+   [**GrupoMulti**](https://www.multilaser.com.br/) • Remote (2023 - Current)
    <details><summary closed>Skills</summary> 
-      <p>
-         <code>Support in Hardware, Software, Printers and Multi Systems</code>, 
-         <code>Support in OS (Windows 10/11, Mac OS, Linux, Android and IOS)</code>, 
-         <code>Inventory Control and Chips (Lines)</code>, 
-         <code>Preparation and repair of machines or cell phones</code>, 
-         <code>User management in Active Directory</code>, 
-         <code>Creation of ISO images</code>, 
-         <code>Answering N1 and N2 tickets in Jira Workspace</code>, 
-         <code>Task Automation (.bat / .shell)</code>, 
-         <code>Office 365 Configuration</code>, 
-         <code>Spreadsheet Creation and Automation (.xlsx)</code>, 
-         <code>Documentation Creation and Process Adjustments (Confluence and Slack) </code>, 
-         <code>Queries and data corrections in MySQL, SQLServer, MongoDB and Postman API</code>, 
-         <code>Datadog and Grafana for error tracking</code>, 
-         <code>Support for IT teams (Development, Microinformatics, etc.)</code>, 
-         <code>Special corrections to projects and procedures</code>, 
-         <code>Creation of Dashboard in Jira</code>
-      </p>
+   
+      • Development and maintenance of microservices and REST APIs using Go (Golang) with Fiber and PHP/Laravel;
+      • Implementation of integrations between internal services and the Mercury Varejo and Mercury Express platform systems;
+      • Implementation of data queries and indexing using Elasticsearch;
+      • Data manipulation and modeling in relational and non-relational databases;
+      • Work across various platform domains, including services for products, shopping carts, orders, customers, quotes, and BFF;
+      • Integration with internal and external APIs for data processing and business rule application;
+      • Service monitoring, observability, and troubleshooting using Datadog;
+      • Collaboration with product and engineering teams to evolve the platform architecture;
+      • Use of Redis for caching and API performance optimization;
+      • Documentation of API endpoints and contracts using Swagger/OpenAPI.
+
    </details>
 
    <h3>Academic Experiences:</h3>
 
-   [<img align="left" width="90px" height="90px" alt="Multi" src="https://i.postimg.cc/DZ4CsXCp/beb7593d7a55a49804b75a36a841c0b9.jpg"/>](https://estacio.br/)
+   [<img align="left" width="90px" height="90px" alt="Estácio" src="https://i.postimg.cc/DZ4CsXCp/beb7593d7a55a49804b75a36a841c0b9.jpg"/>](https://estacio.br/)
    **Software Engineering** \
    [**Estácio**](https://estacio.br/) • EAD (Studying)
-   <details><summary closed>Skills</summary>  
-      <p>
-         <code>Computer Architecture</code>, 
-         <code>Paradigms of Programming Languages ​​in Python</code>, 
-         <code>Introduction to Information Security</code>, 
-         <code>Software Development Processes</code>, 
-         <code>Computational Pressing</code>, 
-         <code>Fundamentals of Computer Networks</code>, 
-         <code>Information Systems and Society</code>, 
-         <code>Web Development in HTML5, CSS, JavaScript and PHP</code>, 
-         <code>Mathematics and Logic</code>, 
-         <code>Systems Requirements</code>, 
-         <code>Usability Engineering</code>, 
-         <code>Systems Architecture</code>, 
-         <code>Data Structure</code>, 
-         <code>Database</code>, 
-         <code>Configuration Management</code>, 
-         <code>Object Oriented Programming in Java</code>, 
-         <code>Organizational Behavior</code>, 
-         <code>Operating Systems</code>, 
-         <code>IT Performance Indicators</code>
-      </p>
+   <details><summary closed>Skills</summary> 
+
+      • Introduction to Information Security;
+      • Information Systems and Society;
+      • Secure Software Development;
+      • Web Development using HTML5, CSS, JavaScript, and PHP;
+      • Programming Language Paradigms in Python;
+      • Computer architecture;
+      • Object-Oriented Programming in Java;
+      • UML Systems Modeling;
+      • Process Modeling;
+      • Project Management;
+      • IT Performance Indicators;
+      • Agile Methods with Scrum;
+      • Mobile Device Programming for Android;
+
    </details>
 
 </div>
@@ -201,15 +189,19 @@
 
 <div>
    <p align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueTTS&hide=contribs&show=prs_merged&show_icons=true&theme=tokyonight&locale=en"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueTTS&layout=compact&langs_count=8&theme=tokyonight&locale=en"/>
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaueTTS&theme=omni"/>
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaueTTS&theme=omni"/>
    </p>
 
    <div align="center">
-      <br><p align="center"><b>Visitor Count</b></p>  
-         <p align="center"><img align="center" src="https://profile-counter.glitch.me/{KaueTTS}/count.svg"/></p>
-      <br>
+      <img src="https://komarev.com/ghpvc/?username=KaueTTS&color=red&style=for-the-badge&label=Visualizações+do+perfil" alt="Visualições do Perfil" />
    </div>
 
-   <h6 align="center">Copyright © 2023 by KauêTTS | All Rights Reserverd.</h6>
+   <h6 align="center">Copyright © 2026 by KauêTTS | All Rights Reserverd.</h6>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
