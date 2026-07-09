@@ -219,3 +219,9 @@
 
    <h6 align="center">Direitos autorais © 2026 por KauêTTS | Todos os direitos são reservados.</h6>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueTTS/KaueTTS/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueTTS/KaueTTS/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaueTTS/KaueTTS/output/github-snake.svg">
+</picture>
