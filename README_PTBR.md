@@ -168,7 +168,7 @@
    <details closed>
    <summary><b>Infraestrutura & Observabilidade</b></summary>
       <div width="40px">
-         <img src="https://i.icoziv.workers.dev/icons?i=docker,grafana,datadog,kubernetes" />
+         <img src="https://i.icoziv.workers.dev/icons?i=docker,grafana,datadog,kubernetes,aws" />
       </div>   
    </details>
 

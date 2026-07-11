@@ -97,20 +97,20 @@
 
    <img width="380px" height="320px" align="left" alt="GIF" src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif">
 
-   <h3 align="center">Goals for the next 5 years (2023 - 2028)</h3>
+   <h3 align="center">Goals for the next 4 years (2026 - 2030)</h3>
 
    ```
-   🖌️ | Complete Front-End Development studies.
+   🧠 | Complete the Bachelor's degree in Software Engineering.
 
-   🧠 | Successfully complete the Faculty of Software Engineering.
+   🌟 | Sharing the knowledge and experiences I have gained throughout my journey as a developer.
 
-   🌟 | Share my knowledge and experiences acquired on this journey as a developer.
+   🌎 | Achieve fluency in English to pursue global opportunities.
 
-   📖 | Enter the job market as a developer.
+   🚀 | Develop products and projects that solve real-world problems.
 
-   🌎 | Have intermediate/advanced English.
+   ☁️ | Deepen knowledge in Cloud Computing and Distributed Systems.
 
-   🤖 | Build a mega project using Frontend, Backend, API and Bank.
+   🏗️ | Continuously evolve in Software Architecture and System Design.
    ```
 
 </div>
@@ -121,25 +121,27 @@
 
    ## 🛠️ Technologies and Tools
 
-   <h3><b>My specializations</b></h3>
+   <h3><b>Technical Skills</b></h3>
 
    <details closed >
-   <summary><b>Languages</b></summary>
+   <summary><b>Front-End</b></summary>
       <div width="40px">
-         <img src="https://skillicons.dev/icons?i=html,css,javascript,markdown,scss" />
+         <img src="https://i.icoziv.workers.dev/icons?i=html,css,javascript,markdown,scss" />
          <br>
-         <img src="https://skillicons.dev/icons?i=react,vuejs,php,python,nodejs" />
+         <img src="https://i.icoziv.workers.dev/icons?i=react,vuejs,ts,electron,tailwindcss" />
          <br>
-         <img src="https://skillicons.dev/icons?i=ts" />
+         <img src="https://i.icoziv.workers.dev/icons?i=materialui" />
       </div>
    </details>
-   
+
    <br>
 
-   <details closed>
-   <summary><b>Framework</b></summary>
+   <details closed >
+   <summary><b>Back-End</b></summary>
       <div width="40px">
-         <img src="https://skillicons.dev/icons?i=electron,tailwindcss,laravel,materialui" />
+         <img src="https://i.icoziv.workers.dev/icons?i=golang,php,nodejs,python,laravel" />
+         <br>
+         <img src="https://i.icoziv.workers.dev/icons?i=fiber,java" />
       </div>
    </details>
 
@@ -148,20 +150,38 @@
    <details closed>
    <summary><b>Database</b></summary>
       <div width="40px">
-         <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+         <img src="https://i.icoziv.workers.dev/icons?i=mysql,mongodb,sqlite,sqlserver,redis" />
       </div>   
    </details>
 
    <br>
 
    <details closed>
-   <summary><b>Tools</b></summary>  
+   <summary><b>Search & Indexing</b></summary>
       <div width="40px">
-         <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,codepen" />
+         <img src="https://i.icoziv.workers.dev/icons?i=elasticsearch" />
+      </div>   
+   </details>
+
+   <br>
+
+   <details closed>
+   <summary><b>Infrastructure & Observability</b></summary>
+      <div width="40px">
+         <img src="https://i.icoziv.workers.dev/icons?i=docker,grafana,datadog,kubernetes,aws" />
+      </div>   
+   </details>
+
+   <br>
+
+   <details closed>
+   <summary><b>Tools & Productivity</b></summary>  
+      <div width="40px">
+         <img src="https://i.icoziv.workers.dev/icons?i=vscode,git,github,vercel,codepen" />
          <br>
-         <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,gamemakerstudio,gitlab,grafana" />
+         <img src="https://i.icoziv.workers.dev/icons?i=pycharm,visualstudio,gamemakerstudio,jira,confluence" />
          <br>
-         <img src="https://skillicons.dev/icons?i=postman" />
+         <img src="https://i.icoziv.workers.dev/icons?i=postman,swagger,gitlab" />
       </div> 
    </details>
 
@@ -198,4 +218,16 @@
    </div>
 
    <h6 align="center">Copyright © 2026 by KauêTTS | All Rights Reserverd.</h6>
+
+   <picture>
+      <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+      <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+      <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+   </picture>
 </div>
