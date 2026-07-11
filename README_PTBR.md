@@ -207,27 +207,27 @@
 
 ##
 
-<div>
-   <p align="center">
+<div align="center">
+   <p>
       <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaueTTS&theme=omni"/>
       <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaueTTS&theme=omni"/>
    </p>
 
-   <div align="center">
+   <div>
       <img src="https://komarev.com/ghpvc/?username=KaueTTS&color=red&style=for-the-badge&label=Visualizações+do+perfil" alt="Visualições do Perfil" />
    </div>
 
-   <h6 align="center">Direitos autorais © 2026 por KauêTTS | Todos os direitos são reservados.</h6>
-</div>
+   <h6>Direitos autorais © 2026 por KauêTTS | Todos os direitos são reservados.</h6>
 
-<picture align="center">
-   <source
-     media="(prefers-color-scheme: dark)"
-     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-   <source
-     media="(prefers-color-scheme: light)"
-     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-   <img
-     alt="github contribution grid snake animation"
-     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</picture>
+   <picture>
+      <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+      <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+      <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+   </picture>
+</div>
