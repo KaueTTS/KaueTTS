@@ -220,7 +220,7 @@
    <h6 align="center">Direitos autorais © 2026 por KauêTTS | Todos os direitos são reservados.</h6>
 </div>
 
-<picture>
+<picture align="center">
    <source
      media="(prefers-color-scheme: dark)"
      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
