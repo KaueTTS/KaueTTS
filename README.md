@@ -199,9 +199,3 @@
 
    <h6 align="center">Copyright © 2026 by KauêTTS | All Rights Reserverd.</h6>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
