@@ -124,64 +124,59 @@
    <h3><b>Technical Skills</b></h3>
 
    <details closed >
-   <summary><b>Front-End</b></summary>
+   <summary><b>Languages ​​and Frameworks</b></summary>
       <div width="40px">
-         <img src="https://i.icoziv.workers.dev/icons?i=html,css,javascript,markdown,scss" />
+         <img src="https://i.icoziv.workers.dev/icons?i=golang,fiber,php,laravel,js" />
          <br>
-         <img src="https://i.icoziv.workers.dev/icons?i=react,vuejs,ts,electron,tailwindcss" />
+         <img src="https://i.icoziv.workers.dev/icons?i=py,nodejs,react,html,css" />
          <br>
-         <img src="https://i.icoziv.workers.dev/icons?i=materialui" />
+         <img src="https://i.icoziv.workers.dev/icons?i=cypress,scss,vue,ts,electron" />
+         <br>
+         <img src="https://i.icoziv.workers.dev/icons?i=tailwind,java,md" />
       </div>
    </details>
 
    <br>
 
    <details closed >
-   <summary><b>Back-End</b></summary>
+   <summary><b>Software Architecture and Development</b></summary>
       <div width="40px">
-         <img src="https://i.icoziv.workers.dev/icons?i=golang,php,nodejs,python,laravel" />
-         <br>
-         <img src="https://i.icoziv.workers.dev/icons?i=fiber,java" />
+         <img src="https://i.icoziv.workers.dev/icons?i=swagger,jwt,materialui,gorm,git" />
       </div>
    </details>
 
    <br>
 
    <details closed>
-   <summary><b>Database</b></summary>
+   <summary><b>Databases and Storage</b></summary>
       <div width="40px">
          <img src="https://i.icoziv.workers.dev/icons?i=mysql,mongodb,sqlite,sqlserver,redis" />
-      </div>   
-   </details>
-
-   <br>
-
-   <details closed>
-   <summary><b>Search & Indexing</b></summary>
-      <div width="40px">
-         <img src="https://i.icoziv.workers.dev/icons?i=elasticsearch" />
-      </div>   
-   </details>
-
-   <br>
-
-   <details closed>
-   <summary><b>Infrastructure & Observability</b></summary>
-      <div width="40px">
-         <img src="https://i.icoziv.workers.dev/icons?i=docker,grafana,datadog,kubernetes,aws" />
-      </div>   
-   </details>
-
-   <br>
-
-   <details closed>
-   <summary><b>Tools & Productivity</b></summary>  
-      <div width="40px">
-         <img src="https://i.icoziv.workers.dev/icons?i=vscode,git,github,vercel,codepen" />
          <br>
-         <img src="https://i.icoziv.workers.dev/icons?i=pycharm,visualstudio,gamemakerstudio,jira,confluence" />
+         <img src="https://i.icoziv.workers.dev/icons?i=postgresql,elasticsearch" />
+      </div>   
+   </details>
+
+   <br>
+
+   <details closed>
+   <summary><b>DevOps, Cloud, and Infrastructure</b></summary>
+      <div width="40px">
+         <img src="https://i.icoziv.workers.dev/icons?i=aws,docker,kubernetes,datadog,grafana" />
          <br>
-         <img src="https://i.icoziv.workers.dev/icons?i=postman,swagger,gitlab" />
+         <img src="https://i.icoziv.workers.dev/icons?i=keycloak,rabbitmq" />
+      </div>   
+   </details>
+
+   <br>
+
+   <details closed>
+   <summary><b>Other Technical Knowledge</b></summary>  
+      <div width="40px">
+         <img src="https://i.icoziv.workers.dev/icons?i=vscode,vercel,codepen,pycharm,visualstudio" />
+         <br>
+         <img src="https://i.icoziv.workers.dev/icons?i=gamemakerstudio,jira,confluence,postman,gitlab" />
+         <br>
+         <img src="https://i.icoziv.workers.dev/icons?i=github" />
       </div> 
    </details>
 
@@ -197,7 +192,7 @@
    [![Linkedin: Kauê Bertaze](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kauebertaze/)&nbsp;
    [![Gmail: kauebertaze2004](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauebertaze2004@gmail.com)&nbsp;
    [![GitHub: Kauê Bertaze](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&link=kauebertaze)](https://github.com/KaueTTS)&nbsp;
-   [![Discord: kauetts](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/663580434101305345)&nbsp;
+   [![Discord: kauetts_](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/501534931487555584)&nbsp;
 
    <p>
       The future is exciting, filled with infinite possibilities, and I am determined to seize each one of them. I am a dreamer aiming to change the world through technology, and I know I am just on the first page of my story.
